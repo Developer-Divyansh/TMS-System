@@ -1,0 +1,154 @@
+[
+  {
+    "id": "notif-001",
+    "userId": "0af2f525-f64f-4541-be87-c159daffe2a1",
+    "type": "shift_reminder",
+    "title": "Shift Reminder",
+    "message": "You have a Morning shift tomorrow at 9:00 AM",
+    "metadata": {
+      "shiftId": "489b9b78-b4da-4dd0-bdfe-9c15917e626e",
+      "shiftDate": "2025-10-17"
+    },
+    "isRead": false,
+    "scheduledAt": "2025-10-16T20:00:00.000Z",
+    "sentAt": "2025-10-16T20:00:00.000Z",
+    "createdAt": "2025-10-16T20:00:00.000Z",
+    "updatedAt": "2025-10-16T20:00:00.000Z"
+  },
+  {
+    "id": "notif-002",
+    "userId": "a38cbb32-dd11-4129-b112-628146b3117c",
+    "type": "shift_reminder",
+    "title": "Shift Reminder",
+    "message": "You have an Evening shift tomorrow at 5:00 PM",
+    "metadata": {
+      "shiftId": "7e8ba78c-fb73-4b20-8665-fe776b4e656e",
+      "shiftDate": "2025-10-17"
+    },
+    "isRead": false,
+    "scheduledAt": "2025-10-16T20:00:00.000Z",
+    "sentAt": "2025-10-16T20:00:00.000Z",
+    "createdAt": "2025-10-16T20:00:00.000Z",
+    "updatedAt": "2025-10-16T20:00:00.000Z"
+  },
+  {
+    "id": "notif-004",
+    "userId": "a38cbb32-dd11-4129-b112-628146b3117c",
+    "type": "timesheet_approved",
+    "title": "Timesheet Approved",
+    "message": "Your timesheet for 2025-10-16 has been approved",
+    "metadata": {
+      "timesheetId": "ts-002-evening",
+      "workDate": "2025-10-16"
+    },
+    "isRead": true,
+    "scheduledAt": "2025-10-17T07:35:00.000Z",
+    "sentAt": "2025-10-17T07:35:00.000Z",
+    "createdAt": "2025-10-17T07:35:00.000Z",
+    "updatedAt": "2025-10-17T08:30:00.000Z"
+  },
+  {
+    "id": "notif-005",
+    "userId": "0af2f525-f64f-4541-be87-c159daffe2a1",
+    "type": "timesheet_rejected",
+    "title": "Timesheet Rejected",
+    "message": "Your timesheet for 2025-10-18 has been rejected. Please update with more details.",
+    "metadata": {
+      "timesheetId": "ts-005-morning",
+      "workDate": "2025-10-18",
+      "rejectionReason": "Insufficient details in timesheet notes"
+    },
+    "isRead": false,
+    "scheduledAt": "2025-10-18T09:05:00.000Z",
+    "sentAt": "2025-10-18T09:05:00.000Z",
+    "createdAt": "2025-10-18T09:05:00.000Z",
+    "updatedAt": "2025-10-18T09:05:00.000Z"
+  },
+  {
+    "id": "notif-006",
+    "userId": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944",
+    "type": "timesheet_pending",
+    "title": "Timesheet Pending Approval",
+    "message": "John Doe has submitted a timesheet for 2025-10-17 that requires your approval",
+    "metadata": {
+      "timesheetId": "ts-003-morning",
+      "userId": "0af2f525-f64f-4541-be87-c159daffe2a1",
+      "userName": "John Doe",
+      "workDate": "2025-10-17"
+    },
+    "isRead": false,
+    "scheduledAt": "2025-10-17T17:25:00.000Z",
+    "sentAt": "2025-10-17T17:25:00.000Z",
+    "createdAt": "2025-10-17T17:25:00.000Z",
+    "updatedAt": "2025-10-17T17:25:00.000Z"
+  },
+  {
+    "id": "notif-007",
+    "userId": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944",
+    "type": "timesheet_pending",
+    "title": "Timesheet Pending Approval",
+    "message": "Jane Smith has submitted a timesheet for 2025-10-17 that requires your approval",
+    "metadata": {
+      "timesheetId": "ts-004-evening",
+      "userId": "a38cbb32-dd11-4129-b112-628146b3117c",
+      "userName": "Jane Smith",
+      "workDate": "2025-10-17"
+    },
+    "isRead": false,
+    "scheduledAt": "2025-10-18T01:10:00.000Z",
+    "sentAt": "2025-10-18T01:10:00.000Z",
+    "createdAt": "2025-10-18T01:10:00.000Z",
+    "updatedAt": "2025-10-18T01:10:00.000Z"
+  },
+  {
+    "id": "notif-008",
+    "userId": "0af2f525-f64f-4541-be87-c159daffe2a1",
+    "type": "shift_updated",
+    "title": "Shift Updated",
+    "message": "Your shift for 2025-10-21 has been updated with new notes",
+    "metadata": {
+      "shiftId": "4474dc6b-ceb7-494f-a5ab-ab4c4b03c0fd",
+      "shiftDate": "2025-10-21",
+      "updatedBy": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944"
+    },
+    "isRead": true,
+    "scheduledAt": "2025-10-19T10:00:00.000Z",
+    "sentAt": "2025-10-19T10:00:00.000Z",
+    "createdAt": "2025-10-19T10:00:00.000Z",
+    "updatedAt": "2025-10-17T14:02:21.977Z"
+  },
+  {
+    "id": "notif-009",
+    "userId": "a38cbb32-dd11-4129-b112-628146b3117c",
+    "type": "shift_assigned",
+    "title": "New Shift Assigned",
+    "message": "You have been assigned a new shift on 2025-10-22",
+    "metadata": {
+      "shiftId": "9158b552-fb1c-40fb-b6b4-0422b3723c81",
+      "shiftDate": "2025-10-22",
+      "assignedBy": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944"
+    },
+    "isRead": false,
+    "scheduledAt": "2025-10-19T14:00:00.000Z",
+    "sentAt": "2025-10-19T14:00:00.000Z",
+    "createdAt": "2025-10-19T14:00:00.000Z",
+    "updatedAt": "2025-10-19T14:00:00.000Z"
+  },
+  {
+    "id": "notif-010",
+    "userId": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944",
+    "type": "system_announcement",
+    "title": "System Maintenance",
+    "message": "The system will undergo maintenance on 2025-10-23 from 2:00 AM to 4:00 AM",
+    "metadata": {
+      "maintenanceDate": "2025-10-23",
+      "startTime": "02:00",
+      "endTime": "04:00"
+    },
+    "isRead": true,
+    "scheduledAt": "2025-10-17T09:00:00.000Z",
+    "sentAt": "2025-10-17T09:00:00.000Z",
+    "createdAt": "2025-10-17T09:00:00.000Z",
+    "updatedAt": "2025-10-17T10:00:00.000Z"
+  }
+]

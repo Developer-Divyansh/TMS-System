@@ -1,0 +1,86 @@
+[
+  {
+    "id": "bc5a4987-9979-4b06-b3ea-fc44a84666cb",
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "74292d3c-94e0-431b-b19e-d5958bd55e8d",
+    "phoneNumber": "+1234567890",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.320Z",
+    "updatedAt": "2025-10-16T10:43:06.320Z"
+  },
+  {
+    "id": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944",
+    "firstName": "Manager",
+    "lastName": "User",
+    "email": "manager@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "2ff2b1a8-d383-4ea6-8e80-729468b05272",
+    "phoneNumber": "+1234567891",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.321Z",
+    "updatedAt": "2025-10-16T10:43:06.321Z"
+  },
+  {
+    "id": "0af2f525-f64f-4541-be87-c159daffe2a1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "046d8182-9dac-4fc1-95ee-c352936bd8bb",
+    "phoneNumber": "+1234567892",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.322Z",
+    "updatedAt": "2025-10-16T10:43:06.322Z"
+  },
+  {
+    "id": "a38cbb32-dd11-4129-b112-628146b3117c",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "046d8182-9dac-4fc1-95ee-c352936bd8bb",
+    "phoneNumber": "+1234567893",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.322Z",
+    "updatedAt": "2025-10-16T10:43:06.322Z"
+  },
+  {
+    "id": "f47e8c44-7d4b-4e2d-9c1a-5e8d9c3b2a1f",
+    "firstName": "Support",
+    "lastName": "Staff",
+    "email": "support@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "046d8182-9dac-4fc1-95ee-c352936bd8bb",
+    "phoneNumber": "+1234567894",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.323Z",
+    "updatedAt": "2025-10-16T10:43:06.323Z"
+  },
+  {
+    "id": "e8f9d1a2-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "firstName": "Emergency",
+    "lastName": "Contact",
+    "email": "emergency@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "046d8182-9dac-4fc1-95ee-c352936bd8bb",
+    "phoneNumber": "+1234567895",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.324Z",
+    "updatedAt": "2025-10-16T10:43:06.324Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
+    "firstName": "Dev",
+    "lastName": "Team",
+    "email": "dev@rotasystem.com",
+    "password": "$2b$10$bAsO5a03L.UCFBjLOZwSwOKBd32IBbpuxhJc6Js4EqHyNCSW4Zz0C",
+    "roleId": "046d8182-9dac-4fc1-95ee-c352936bd8bb",
+    "phoneNumber": "+1234567896",
+    "isActive": true,
+    "createdAt": "2025-10-16T10:43:06.325Z",
+    "updatedAt": "2025-10-16T10:43:06.325Z"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "74292d3c-94e0-431b-b19e-d5958bd55e8d",
+    "name": "Admin",
+    "description": "System administrator with full access",
+    "permissions": [
+      "users.create",
+      "users.read",
+      "users.update",
+      "users.delete",
+      "teams.create",
+      "teams.read",
+      "teams.update",
+      "teams.delete",
+      "shifts.create",
+      "shifts.read",
+      "shifts.update",
+      "shifts.delete",
+      "timesheets.create",
+      "timesheets.read",
+      "timesheets.update",
+      "timesheets.delete",
+      "timesheets.approve",
+      "notifications.create",
+      "notifications.read",
+      "notifications.update",
+      "notifications.delete"
+    ],
+    "createdAt": "2025-10-17T13:00:00.000Z",
+    "updatedAt": "2025-10-17T13:00:00.000Z"
+  },
+  {
+    "id": "2ff2b1a8-d383-4ea6-8e80-729468b05272",
+    "name": "Manager",
+    "description": "Team manager with limited access",
+    "permissions": [
+      "users.read",
+      "teams.read",
+      "teams.update",
+      "shifts.create",
+      "shifts.read",
+      "shifts.update",
+      "shifts.delete",
+      "timesheets.create",
+      "timesheets.read",
+      "timesheets.update",
+      "timesheets.approve",
+      "notifications.read"
+    ],
+    "createdAt": "2025-10-17T13:00:00.000Z",
+    "updatedAt": "2025-10-17T13:00:00.000Z"
+  },
+  {
+    "id": "046d8182-9dac-4fc1-95ee-c352936bd8bb",
+    "name": "Staff",
+    "description": "Regular staff member with basic access",
+    "permissions": [
+      "users.read.own",
+      "shifts.read.own",
+      "timesheets.create",
+      "timesheets.read.own",
+      "timesheets.update.own",
+      "notifications.read"
+    ],
+    "createdAt": "2025-10-17T13:00:00.000Z",
+    "updatedAt": "2025-10-17T13:00:00.000Z"
+  }
+]

@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "7ce922e1-cf8e-41f2-b5ae-d3a926244f91",
+    "userId": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944",
+    "teamId": "7d43493c-6de6-46ee-94b0-47a36da7c07c",
+    "joinedAt": "2025-10-16T10:43:06.323Z",
+    "createdAt": "2025-10-16T10:43:06.323Z",
+    "updatedAt": "2025-10-16T10:43:06.323Z"
+  },
+  {
+    "id": "eb06df0b-9196-4a2d-8477-90fabea5e12b",
+    "userId": "73e0d3b5-67a5-4f5c-b81f-7501f6a83944",
+    "teamId": "cddfc6a9-7cf9-4ce8-b580-1c705049a5ba",
+    "joinedAt": "2025-10-16T10:43:06.323Z",
+    "createdAt": "2025-10-16T10:43:06.323Z",
+    "updatedAt": "2025-10-16T10:43:06.323Z"
+  },
+  {
+    "id": "1db8d4bb-2fb8-4bc5-8776-01cbe11eec69",
+    "userId": "0af2f525-f64f-4541-be87-c159daffe2a1",
+    "teamId": "7d43493c-6de6-46ee-94b0-47a36da7c07c",
+    "joinedAt": "2025-10-16T10:43:06.323Z",
+    "createdAt": "2025-10-16T10:43:06.323Z",
+    "updatedAt": "2025-10-16T10:43:06.323Z"
+  },
+  {
+    "id": "8fe0a651-af03-4e27-be20-5c858af34298",
+    "userId": "a38cbb32-dd11-4129-b112-628146b3117c",
+    "teamId": "cddfc6a9-7cf9-4ce8-b580-1c705049a5ba",
+    "joinedAt": "2025-10-16T10:43:06.326Z",
+    "createdAt": "2025-10-16T10:43:06.326Z",
+    "updatedAt": "2025-10-16T10:43:06.326Z"
+  },
+  {
+    "id": "b272cc84-31aa-4b03-a9c2-dded4203b3b0",
+    "userId": "8958a4e2-e49b-4693-93b4-e4360adcd886",
+    "teamId": "0e4a6e51-e6ad-4399-95e6-37971742d816",
+    "joinedAt": "2025-10-16T10:43:51.204Z",
+    "createdAt": "2025-10-16T10:43:51.204Z",
+    "updatedAt": "2025-10-16T10:43:51.204Z"
+  },
+  {
+    "id": "c111edbf-bfc6-4a0d-8f92-bffd00a9e781",
+    "userId": "8958a4e2-e49b-4693-93b4-e4360adcd886",
+    "teamId": "e5a3af8b-bece-4ce6-b165-40f3cddd70b8",
+    "joinedAt": "2025-10-16T10:43:51.204Z",
+    "createdAt": "2025-10-16T10:43:51.204Z",
+    "updatedAt": "2025-10-16T10:43:51.204Z"
+  },
+  {
+    "id": "54455bf1-ca85-4674-939b-236372b1c678",
+    "userId": "53310efa-165b-4c75-8c02-52a6e649f6ae",
+    "teamId": "0e4a6e51-e6ad-4399-95e6-37971742d816",
+    "joinedAt": "2025-10-16T10:43:51.205Z",
+    "createdAt": "2025-10-16T10:43:51.205Z",
+    "updatedAt": "2025-10-16T10:43:51.205Z"
+  },
+  {
+    "id": "77e4b3a9-9bbf-478a-b72f-f94d6682225f",
+    "userId": "cebdb717-6b55-4a0e-bc2e-b74b19b878b3",
+    "teamId": "e5a3af8b-bece-4ce6-b165-40f3cddd70b8",
+    "joinedAt": "2025-10-16T10:43:51.209Z",
+    "createdAt": "2025-10-16T10:43:51.209Z",
+    "updatedAt": "2025-10-16T10:43:51.209Z"
+  },
+  {
+    "id": "7a6bf2bc-26f1-4aab-94e2-743952b010aa",
+    "userId": "0bc29d53-be2b-419d-82a1-2991e88baa20",
+    "teamId": "b7e1e850-1d5d-4cfc-9001-9bac73fb9f38",
+    "joinedAt": "2025-10-16T10:43:55.619Z",
+    "createdAt": "2025-10-16T10:43:55.619Z",
+    "updatedAt": "2025-10-16T10:43:55.619Z"
+  },
+  {
+    "id": "0867d2e8-e9ce-4855-ab18-5a6f88f88028",
+    "userId": "0bc29d53-be2b-419d-82a1-2991e88baa20",
+    "teamId": "28d5caa7-d47f-4c4e-8309-4756ca481c51",
+    "joinedAt": "2025-10-16T10:43:55.619Z",
+    "createdAt": "2025-10-16T10:43:55.619Z",
+    "updatedAt": "2025-10-16T10:43:55.619Z"
+  },
+  {
+    "id": "297209f1-b204-4d14-a82a-f76b9b448d9b",
+    "userId": "d242784c-673a-4891-836b-17f294a60f26",
+    "teamId": "b7e1e850-1d5d-4cfc-9001-9bac73fb9f38",
+    "joinedAt": "2025-10-16T10:43:55.619Z",
+    "createdAt": "2025-10-16T10:43:55.619Z",
+    "updatedAt": "2025-10-16T10:43:55.619Z"
+  },
+  {
+    "id": "50878956-2353-48ca-9fe5-e6274fde6580",
+    "userId": "3430f23f-6ab2-4a82-9aac-3e9155084736",
+    "teamId": "28d5caa7-d47f-4c4e-8309-4756ca481c51",
+    "joinedAt": "2025-10-16T10:43:55.619Z",
+    "createdAt": "2025-10-16T10:43:55.619Z",
+    "updatedAt": "2025-10-16T10:43:55.619Z"
+  },
+  {
+    "id": "e35fcbe7-7d04-4f1a-aa79-122f180f538d",
+    "userId": "5441ef7c-4be9-46bb-b510-c4be6e469d28",
+    "teamId": "dbeb115f-7a3f-4b5c-b132-1113a5fe7bca",
+    "joinedAt": "2025-10-16T10:44:18.745Z",
+    "createdAt": "2025-10-16T10:44:18.745Z",
+    "updatedAt": "2025-10-16T10:44:18.745Z"
+  },
+  {
+    "id": "2ba8be20-c42e-42ce-b094-c8da8b907df2",
+    "userId": "5441ef7c-4be9-46bb-b510-c4be6e469d28",
+    "teamId": "efce9851-d83b-4e83-9e61-195bcf8d153b",
+    "joinedAt": "2025-10-16T10:44:18.745Z",
+    "createdAt": "2025-10-16T10:44:18.745Z",
+    "updatedAt": "2025-10-16T10:44:18.745Z"
+  },
+  {
+    "id": "5df968c2-b152-49eb-b8b7-9265f84ae236",
+    "userId": "66274dc5-6b20-4609-9e10-992d13ad8d45",
+    "teamId": "dbeb115f-7a3f-4b5c-b132-1113a5fe7bca",
+    "joinedAt": "2025-10-16T10:44:18.746Z",
+    "createdAt": "2025-10-16T10:44:18.746Z",
+    "updatedAt": "2025-10-16T10:44:18.746Z"
+  },
+  {
+    "id": "c7cb8839-b74b-47f6-9120-d68565a79922",
+    "userId": "6254e84c-3741-4a6f-af36-2524141c91a7",
+    "teamId": "efce9851-d83b-4e83-9e61-195bcf8d153b",
+    "joinedAt": "2025-10-16T10:44:18.747Z",
+    "createdAt": "2025-10-16T10:44:18.747Z",
+    "updatedAt": "2025-10-16T10:44:18.747Z"
+  },
+  {
+    "id": "3cd08d18-ea09-4262-9bce-daea8d828459",
+    "userId": "8f89cb7a-3806-4c1d-be41-55d933b301af",
+    "teamId": "601e5eea-d11f-4493-83c4-0522913368e2",
+    "joinedAt": "2025-10-16T10:47:23.847Z",
+    "createdAt": "2025-10-16T10:47:23.847Z",
+    "updatedAt": "2025-10-16T10:47:23.847Z"
+  },
+  {
+    "id": "2e1dc125-574c-40c4-858b-a21005b2b768",
+    "userId": "8f89cb7a-3806-4c1d-be41-55d933b301af",
+    "teamId": "3f2caab1-43fb-4ec3-a422-d49e470da855",
+    "joinedAt": "2025-10-16T10:47:23.847Z",
+    "createdAt": "2025-10-16T10:47:23.847Z",
+    "updatedAt": "2025-10-16T10:47:23.847Z"
+  },
+  {
+    "id": "c0d776e3-5986-47c2-8ca7-fb2d148ea0fa",
+    "userId": "b0534764-4295-4af0-a570-0fe86ee3023c",
+    "teamId": "601e5eea-d11f-4493-83c4-0522913368e2",
+    "joinedAt": "2025-10-16T10:47:23.847Z",
+    "createdAt": "2025-10-16T10:47:23.847Z",
+    "updatedAt": "2025-10-16T10:47:23.847Z"
+  },
+  {
+    "id": "cb5d2079-711c-4418-b843-4eb50b8582f7",
+    "userId": "a1980bec-a79d-4706-80b3-375f4d867d21",
+    "teamId": "3f2caab1-43fb-4ec3-a422-d49e470da855",
+    "joinedAt": "2025-10-16T10:47:23.848Z",
+    "createdAt": "2025-10-16T10:47:23.848Z",
+    "updatedAt": "2025-10-16T10:47:23.848Z"
+  },
+  {
+    "id": "1a3f9fbe-b9a8-4922-a659-269e7cbcce14",
+    "userId": "ba06a067-047d-4869-a8aa-bcd99d76a400",
+    "teamId": "17fa798e-8b28-4b36-a4e3-39ccbdd73f4e",
+    "joinedAt": "2025-10-16T10:49:07.096Z",
+    "createdAt": "2025-10-16T10:49:07.096Z",
+    "updatedAt": "2025-10-16T10:49:07.096Z"
+  },
+  {
+    "id": "04660407-70c9-4d5c-beef-77ba9993b4a6",
+    "userId": "ba06a067-047d-4869-a8aa-bcd99d76a400",
+    "teamId": "334bc61a-7dee-418d-b613-0be325785600",
+    "joinedAt": "2025-10-16T10:49:07.096Z",
+    "createdAt": "2025-10-16T10:49:07.096Z",
+    "updatedAt": "2025-10-16T10:49:07.096Z"
+  },
+  {
+    "id": "cba0ef42-220a-4859-97ea-fb9f478e1207",
+    "userId": "6801fdf9-3b10-40c4-9eb0-6d2794c16564",
+    "teamId": "17fa798e-8b28-4b36-a4e3-39ccbdd73f4e",
+    "joinedAt": "2025-10-16T10:49:07.097Z",
+    "createdAt": "2025-10-16T10:49:07.097Z",
+    "updatedAt": "2025-10-16T10:49:07.097Z"
+  },
+  {
+    "id": "f74351c1-ab53-4bae-a11b-3b0d9e9a4c45",
+    "userId": "249ee42b-c12a-41da-afb1-ab1562bcb540",
+    "teamId": "334bc61a-7dee-418d-b613-0be325785600",
+    "joinedAt": "2025-10-16T10:49:07.099Z",
+    "createdAt": "2025-10-16T10:49:07.099Z",
+    "updatedAt": "2025-10-16T10:49:07.099Z"
+  },
+  {
+    "id": "4710180d-1567-4494-a068-a5c09b799751",
+    "userId": "49c407f6-8980-4352-bd12-84c0dff19a18",
+    "teamId": "9f91eee1-ac7a-47ed-9f7b-e3476d20e2e1",
+    "joinedAt": "2025-10-16T10:53:13.091Z",
+    "createdAt": "2025-10-16T10:53:13.091Z",
+    "updatedAt": "2025-10-16T10:53:13.091Z"
+  },
+  {
+    "id": "967769f2-de66-425b-a97c-4e08b006ddbd",
+    "userId": "49c407f6-8980-4352-bd12-84c0dff19a18",
+    "teamId": "83d066b5-1c71-4d13-a836-e243df4a77f9",
+    "joinedAt": "2025-10-16T10:53:13.091Z",
+    "createdAt": "2025-10-16T10:53:13.091Z",
+    "updatedAt": "2025-10-16T10:53:13.091Z"
+  },
+  {
+    "id": "69096b85-a1cc-4e8d-aba2-9a3d6b4cc017",
+    "userId": "96b817f2-baa4-44c0-90b8-a6c379033ff7",
+    "teamId": "9f91eee1-ac7a-47ed-9f7b-e3476d20e2e1",
+    "joinedAt": "2025-10-16T10:53:13.092Z",
+    "createdAt": "2025-10-16T10:53:13.092Z",
+    "updatedAt": "2025-10-16T10:53:13.092Z"
+  },
+  {
+    "id": "5f338266-635e-4b3e-8770-caf905fceb79",
+    "userId": "ed845e4f-faad-4b73-b5e7-ec1a76efc6ba",
+    "teamId": "83d066b5-1c71-4d13-a836-e243df4a77f9",
+    "joinedAt": "2025-10-16T10:53:13.092Z",
+    "createdAt": "2025-10-16T10:53:13.092Z",
+    "updatedAt": "2025-10-16T10:53:13.092Z"
+  },
+  {
+    "id": "a29a57d9-fece-467b-8143-42577da14667",
+    "userId": "9cba416f-b10b-40f7-b960-cf94e1603c75",
+    "teamId": "15ac9005-4c49-489e-a28c-2118c603a917",
+    "joinedAt": "2025-10-16T10:58:25.258Z",
+    "createdAt": "2025-10-16T10:58:25.258Z",
+    "updatedAt": "2025-10-16T10:58:25.258Z"
+  },
+  {
+    "id": "3f86e38e-7951-4e5e-a3d5-222764551a86",
+    "userId": "9cba416f-b10b-40f7-b960-cf94e1603c75",
+    "teamId": "76050f6c-fc13-4b1d-bcdb-d4700f468c44",
+    "joinedAt": "2025-10-16T10:58:25.260Z",
+    "createdAt": "2025-10-16T10:58:25.260Z",
+    "updatedAt": "2025-10-16T10:58:25.260Z"
+  },
+  {
+    "id": "9b49a947-e506-4071-8ea8-81d4c300de55",
+    "userId": "aafbe0c3-f77e-43b0-af9f-6bbde27d8b16",
+    "teamId": "15ac9005-4c49-489e-a28c-2118c603a917",
+    "joinedAt": "2025-10-16T10:58:25.260Z",
+    "createdAt": "2025-10-16T10:58:25.260Z",
+    "updatedAt": "2025-10-16T10:58:25.260Z"
+  },
+  {
+    "id": "629073e6-fa94-4076-bb9f-f0225450c1cd",
+    "userId": "9ba46f74-1687-452f-9321-ccbdc7e86b59",
+    "teamId": "76050f6c-fc13-4b1d-bcdb-d4700f468c44",
+    "joinedAt": "2025-10-16T10:58:25.261Z",
+    "createdAt": "2025-10-16T10:58:25.261Z",
+    "updatedAt": "2025-10-16T10:58:25.261Z"
+  },
+  {
+    "id": "bb655153-ac72-4eab-aa0f-6e00a8006eaf",
+    "userId": "3ca22bab-4726-47cc-b7ed-7fc4bc787641",
+    "teamId": "956123ee-afcd-428d-ab6c-c6a71ccc939e",
+    "joinedAt": "2025-10-16T11:34:04.402Z",
+    "createdAt": "2025-10-16T11:34:04.402Z",
+    "updatedAt": "2025-10-16T11:34:04.402Z"
+  },
+  {
+    "id": "cc035b93-fce5-43a8-b1da-ec52a5856188",
+    "userId": "3ca22bab-4726-47cc-b7ed-7fc4bc787641",
+    "teamId": "7f962f33-1036-4ecc-93c7-e7267d13947c",
+    "joinedAt": "2025-10-16T11:34:04.403Z",
+    "createdAt": "2025-10-16T11:34:04.403Z",
+    "updatedAt": "2025-10-16T11:34:04.403Z"
+  },
+  {
+    "id": "be35d527-0e09-4896-98bb-aa35acb07883",
+    "userId": "84c1311e-b7c1-4f42-b103-b9c5954689c0",
+    "teamId": "956123ee-afcd-428d-ab6c-c6a71ccc939e",
+    "joinedAt": "2025-10-16T11:34:04.403Z",
+    "createdAt": "2025-10-16T11:34:04.403Z",
+    "updatedAt": "2025-10-16T11:34:04.403Z"
+  },
+  {
+    "id": "8f9e1410-5ad5-476a-9710-e7564a74885e",
+    "userId": "804d9748-a3d0-44bc-b0a6-12069f7cc900",
+    "teamId": "7f962f33-1036-4ecc-93c7-e7267d13947c",
+    "joinedAt": "2025-10-16T11:34:04.403Z",
+    "createdAt": "2025-10-16T11:34:04.403Z",
+    "updatedAt": "2025-10-16T11:34:04.403Z"
+  },
+  {
+    "id": "b53b26f2-01e5-4e7a-87a2-0bcf03f8a46e",
+    "userId": "74615b4e-7b45-4fb3-ad80-fd010521904b",
+    "teamId": "427fee22-7769-4376-abef-89feba3dfb3a",
+    "joinedAt": "2025-10-16T11:34:23.942Z",
+    "createdAt": "2025-10-16T11:34:23.942Z",
+    "updatedAt": "2025-10-16T11:34:23.942Z"
+  },
+  {
+    "id": "5d2504ee-206d-4ead-a5df-49df4fd667cf",
+    "userId": "74615b4e-7b45-4fb3-ad80-fd010521904b",
+    "teamId": "dbe66b27-1f95-4d76-bb50-0f3389e014d4",
+    "joinedAt": "2025-10-16T11:34:23.942Z",
+    "createdAt": "2025-10-16T11:34:23.942Z",
+    "updatedAt": "2025-10-16T11:34:23.942Z"
+  },
+  {
+    "id": "ef4025e3-eef9-4b57-83b9-d55be5825279",
+    "userId": "106ae9db-8da6-4534-a126-6201f6b2682c",
+    "teamId": "427fee22-7769-4376-abef-89feba3dfb3a",
+    "joinedAt": "2025-10-16T11:34:23.942Z",
+    "createdAt": "2025-10-16T11:34:23.942Z",
+    "updatedAt": "2025-10-16T11:34:23.942Z"
+  },
+  {
+    "id": "8ae639ae-114d-4eeb-9af5-b9a38bfaf5dd",
+    "userId": "8b67e73a-23f1-4e88-a70a-ee430696c6f3",
+    "teamId": "dbe66b27-1f95-4d76-bb50-0f3389e014d4",
+    "joinedAt": "2025-10-16T11:34:23.943Z",
+    "createdAt": "2025-10-16T11:34:23.943Z",
+    "updatedAt": "2025-10-16T11:34:23.943Z"
+  },
+  {
+    "id": "1b628cc0-6350-46fd-b570-95c6e0f5cf8e",
+    "userId": "59d16c71-fbc2-45cb-b141-831b877c0688",
+    "teamId": "36587057-8fe3-4ddf-94c8-14696839e309",
+    "joinedAt": "2025-10-16T11:37:34.960Z",
+    "createdAt": "2025-10-16T11:37:34.960Z",
+    "updatedAt": "2025-10-16T11:37:34.960Z"
+  },
+  {
+    "id": "330caa53-7f9c-4822-87cd-d92c22994029",
+    "userId": "59d16c71-fbc2-45cb-b141-831b877c0688",
+    "teamId": "eedde125-4f66-499e-bc80-5ebc1951deaf",
+    "joinedAt": "2025-10-16T11:37:34.962Z",
+    "createdAt": "2025-10-16T11:37:34.962Z",
+    "updatedAt": "2025-10-16T11:37:34.962Z"
+  },
+  {
+    "id": "1dcdde48-48c1-479e-b809-9c2febedb9d6",
+    "userId": "b82be6ba-2bd3-4264-a58b-b8b937f7ab19",
+    "teamId": "36587057-8fe3-4ddf-94c8-14696839e309",
+    "joinedAt": "2025-10-16T11:37:34.965Z",
+    "createdAt": "2025-10-16T11:37:34.965Z",
+    "updatedAt": "2025-10-16T11:37:34.965Z"
+  },
+  {
+    "id": "adf89740-baf0-408c-9fa9-fc6513239c9f",
+    "userId": "d556c075-75c5-4002-a44b-323a0d5e686e",
+    "teamId": "eedde125-4f66-499e-bc80-5ebc1951deaf",
+    "joinedAt": "2025-10-16T11:37:34.970Z",
+    "createdAt": "2025-10-16T11:37:34.970Z",
+    "updatedAt": "2025-10-16T11:37:34.970Z"
+  },
+  {
+    "id": "9f7ca24a-44c0-47df-9838-e9503116eb5e",
+    "userId": "5cacec2e-c703-46dd-8d82-c96ea72de69c",
+    "teamId": "aadd184b-117d-46f6-bb41-d40b802ffbaf",
+    "joinedAt": "2025-10-16T11:37:42.282Z",
+    "createdAt": "2025-10-16T11:37:42.282Z",
+    "updatedAt": "2025-10-16T11:37:42.282Z"
+  },
+  {
+    "id": "85018df5-c9d3-485d-8cc3-c1287e69c42e",
+    "userId": "5cacec2e-c703-46dd-8d82-c96ea72de69c",
+    "teamId": "f4f91fbc-d5cf-4f76-80b1-8bdedaba6e8a",
+    "joinedAt": "2025-10-16T11:37:42.285Z",
+    "createdAt": "2025-10-16T11:37:42.289Z",
+    "updatedAt": "2025-10-16T11:37:42.289Z"
+  },
+  {
+    "id": "289b0e92-76d8-433a-bc8a-9ddcc1ee8f3f",
+    "userId": "0a0a961f-ba82-4406-bbb3-1fa694db6407",
+    "teamId": "aadd184b-117d-46f6-bb41-d40b802ffbaf",
+    "joinedAt": "2025-10-16T11:37:42.290Z",
+    "createdAt": "2025-10-16T11:37:42.290Z",
+    "updatedAt": "2025-10-16T11:37:42.290Z"
+  },
+  {
+    "id": "2fed29ed-7406-4d26-8563-a698db9078df",
+    "userId": "38c1e403-7ee2-4fc3-a251-42cabdab0627",
+    "teamId": "f4f91fbc-d5cf-4f76-80b1-8bdedaba6e8a",
+    "joinedAt": "2025-10-16T11:37:42.298Z",
+    "createdAt": "2025-10-16T11:37:42.298Z",
+    "updatedAt": "2025-10-16T11:37:42.298Z"
+  },
+  {
+    "id": "8ff0d3c9-8bfc-41cc-a27c-cfd0ec4b4431",
+    "userId": "bd940266-c155-41cf-b710-69a47102e55a",
+    "teamId": "63ea5245-4006-4dd3-8e62-b5be6ce0842a",
+    "joinedAt": "2025-10-16T11:40:59.848Z",
+    "createdAt": "2025-10-16T11:40:59.848Z",
+    "updatedAt": "2025-10-16T11:40:59.848Z"
+  },
+  {
+    "id": "3083c375-21e1-4ef4-92dc-f111b39ef5d0",
+    "userId": "bd940266-c155-41cf-b710-69a47102e55a",
+    "teamId": "16d228c4-76f0-419d-9ce3-3a88e0477933",
+    "joinedAt": "2025-10-16T11:40:59.849Z",
+    "createdAt": "2025-10-16T11:40:59.849Z",
+    "updatedAt": "2025-10-16T11:40:59.849Z"
+  },
+  {
+    "id": "bdb14a85-e4b1-4bf0-b50f-169667cde213",
+    "userId": "def528ca-a6ad-419d-afd1-97155893cbec",
+    "teamId": "63ea5245-4006-4dd3-8e62-b5be6ce0842a",
+    "joinedAt": "2025-10-16T11:40:59.849Z",
+    "createdAt": "2025-10-16T11:40:59.849Z",
+    "updatedAt": "2025-10-16T11:40:59.849Z"
+  },
+  {
+    "id": "32af9949-8efc-4d5d-b22e-17b2013d9ae1",
+    "userId": "71a622db-eed9-4a3c-a5cd-d5f61e21bf24",
+    "teamId": "16d228c4-76f0-419d-9ce3-3a88e0477933",
+    "joinedAt": "2025-10-16T11:40:59.850Z",
+    "createdAt": "2025-10-16T11:40:59.850Z",
+    "updatedAt": "2025-10-16T11:40:59.850Z"
+  },
+  {
+    "id": "7871c636-a5dc-464d-af7b-77a83bddb1bf",
+    "userId": "826f2c67-31bd-439a-9c42-9360128acfb4",
+    "teamId": "7a4eb3dc-dca9-486c-8500-eece6629c1e5",
+    "joinedAt": "2025-10-16T11:42:46.512Z",
+    "createdAt": "2025-10-16T11:42:46.512Z",
+    "updatedAt": "2025-10-16T11:42:46.512Z"
+  },
+  {
+    "id": "88caac25-16f1-4ccf-a589-d1a1cbf9761f",
+    "userId": "826f2c67-31bd-439a-9c42-9360128acfb4",
+    "teamId": "ea827a14-72f7-46ea-809a-53adbbd47d0f",
+    "joinedAt": "2025-10-16T11:42:46.513Z",
+    "createdAt": "2025-10-16T11:42:46.513Z",
+    "updatedAt": "2025-10-16T11:42:46.513Z"
+  },
+  {
+    "id": "014bc61c-c754-43d5-9cee-b316b745b82e",
+    "userId": "5e2b330f-587d-48e8-94ee-908ae82f15aa",
+    "teamId": "7a4eb3dc-dca9-486c-8500-eece6629c1e5",
+    "joinedAt": "2025-10-16T11:42:46.513Z",
+    "createdAt": "2025-10-16T11:42:46.513Z",
+    "updatedAt": "2025-10-16T11:42:46.513Z"
+  },
+  {
+    "id": "f30d518a-b307-4112-a9e6-f7dfa3d6f3fc",
+    "userId": "da8d5c12-e33a-4983-98b0-10c1d375603e",
+    "teamId": "ea827a14-72f7-46ea-809a-53adbbd47d0f",
+    "joinedAt": "2025-10-16T11:42:46.514Z",
+    "createdAt": "2025-10-16T11:42:46.514Z",
+    "updatedAt": "2025-10-16T11:42:46.514Z"
+  },
+  {
+    "id": "6cbb4da1-cbca-4864-b8ca-11f99cb8f9a9",
+    "userId": "b17f2c4d-ce39-436d-b1af-d3316e435b18",
+    "teamId": "16688c9c-f6cb-436c-ae68-de49f6f9234f",
+    "joinedAt": "2025-10-17T07:29:07.025Z",
+    "createdAt": "2025-10-17T07:29:07.025Z",
+    "updatedAt": "2025-10-17T07:29:07.025Z"
+  },
+  {
+    "id": "947d5003-f764-4675-bb51-ced04bca40d2",
+    "userId": "b17f2c4d-ce39-436d-b1af-d3316e435b18",
+    "teamId": "e0419702-d423-4ec8-8b20-778b7cfa8649",
+    "joinedAt": "2025-10-17T07:29:07.026Z",
+    "createdAt": "2025-10-17T07:29:07.026Z",
+    "updatedAt": "2025-10-17T07:29:07.026Z"
+  },
+  {
+    "id": "e46a8d68-0f7a-455f-918f-63abf826d729",
+    "userId": "b70391cf-348e-4366-98c3-106eb9b68026",
+    "teamId": "16688c9c-f6cb-436c-ae68-de49f6f9234f",
+    "joinedAt": "2025-10-17T07:29:07.026Z",
+    "createdAt": "2025-10-17T07:29:07.026Z",
+    "updatedAt": "2025-10-17T07:29:07.026Z"
+  },
+  {
+    "id": "d2c2e715-da07-42d8-a229-120b2670cd81",
+    "userId": "41a3f2b5-a663-48df-8a29-4cd95e4eadea",
+    "teamId": "e0419702-d423-4ec8-8b20-778b7cfa8649",
+    "joinedAt": "2025-10-17T07:29:07.027Z",
+    "createdAt": "2025-10-17T07:29:07.027Z",
+    "updatedAt": "2025-10-17T07:29:07.027Z"
+  },
+  {
+    "id": "294d8146-2142-49eb-9c21-c89317be4404",
+    "userId": "6ca61cf0-185d-4744-9a8e-d834e8f8b658",
+    "teamId": "71341d01-22e0-4336-bfd6-c28a05000903",
+    "joinedAt": "2025-10-17T07:29:12.604Z",
+    "createdAt": "2025-10-17T07:29:12.605Z",
+    "updatedAt": "2025-10-17T07:29:12.605Z"
+  },
+  {
+    "id": "4ac38a8f-194f-4806-9a51-09a1db54eddf",
+    "userId": "6ca61cf0-185d-4744-9a8e-d834e8f8b658",
+    "teamId": "81169cf9-9bed-436f-98ad-243bf6e9bac1",
+    "joinedAt": "2025-10-17T07:29:12.605Z",
+    "createdAt": "2025-10-17T07:29:12.605Z",
+    "updatedAt": "2025-10-17T07:29:12.605Z"
+  },
+  {
+    "id": "db098d50-e477-4ee8-b6dd-46d5bc5ba1db",
+    "userId": "388d1cd5-eca3-4e1d-9050-a447c6b6cdde",
+    "teamId": "71341d01-22e0-4336-bfd6-c28a05000903",
+    "joinedAt": "2025-10-17T07:29:12.605Z",
+    "createdAt": "2025-10-17T07:29:12.605Z",
+    "updatedAt": "2025-10-17T07:29:12.605Z"
+  },
+  {
+    "id": "a721b33b-b044-48c4-951f-f7476eb9b628",
+    "userId": "9e074927-552a-48fb-a461-f22432e5e4e5",
+    "teamId": "81169cf9-9bed-436f-98ad-243bf6e9bac1",
+    "joinedAt": "2025-10-17T07:29:12.605Z",
+    "createdAt": "2025-10-17T07:29:12.605Z",
+    "updatedAt": "2025-10-17T07:29:12.605Z"
+  },
+  {
+    "id": "bfc76d11-c6fa-4b92-a984-439ad0e92fe5",
+    "userId": "c38a15b0-2664-4761-957f-727aa3357dd2",
+    "teamId": "9a1bdf46-9e12-4263-a4cf-73f3db7e955d",
+    "joinedAt": "2025-10-17T07:45:22.175Z",
+    "createdAt": "2025-10-17T07:45:22.175Z",
+    "updatedAt": "2025-10-17T07:45:22.175Z"
+  },
+  {
+    "id": "8190a0eb-ffbb-48fd-a3e5-60620b9c216f",
+    "userId": "c38a15b0-2664-4761-957f-727aa3357dd2",
+    "teamId": "f6ee1ca6-0fa4-4ecf-a654-0598bd61ac85",
+    "joinedAt": "2025-10-17T07:45:22.176Z",
+    "createdAt": "2025-10-17T07:45:22.176Z",
+    "updatedAt": "2025-10-17T07:45:22.176Z"
+  },
+  {
+    "id": "41e861b6-22a9-4e21-8266-1806df63e7d4",
+    "userId": "6317fd8a-2e8b-4e91-a450-71114dd8c216",
+    "teamId": "9a1bdf46-9e12-4263-a4cf-73f3db7e955d",
+    "joinedAt": "2025-10-17T07:45:22.177Z",
+    "createdAt": "2025-10-17T07:45:22.177Z",
+    "updatedAt": "2025-10-17T07:45:22.177Z"
+  },
+  {
+    "id": "9dd075d3-6be9-4b56-b4fd-b2b14a11bf2b",
+    "userId": "fa2895a2-cb48-4ca8-85be-9f7333de600f",
+    "teamId": "f6ee1ca6-0fa4-4ecf-a654-0598bd61ac85",
+    "joinedAt": "2025-10-17T07:45:22.177Z",
+    "createdAt": "2025-10-17T07:45:22.177Z",
+    "updatedAt": "2025-10-17T07:45:22.177Z"
+  },
+  {
+    "id": "9b3b6631-8233-4499-a551-c8e30d091ae1",
+    "userId": "56602e66-808e-4f60-b978-3f93bd623400",
+    "teamId": "117d0bca-debd-408c-999f-9302c6f50b04",
+    "joinedAt": "2025-10-17T08:04:22.884Z",
+    "createdAt": "2025-10-17T08:04:22.884Z",
+    "updatedAt": "2025-10-17T08:04:22.884Z"
+  },
+  {
+    "id": "186a2a16-849b-43ec-8ef3-fac37b4578d1",
+    "userId": "56602e66-808e-4f60-b978-3f93bd623400",
+    "teamId": "9af9a468-ab84-493e-8bc3-670204ba8718",
+    "joinedAt": "2025-10-17T08:04:22.884Z",
+    "createdAt": "2025-10-17T08:04:22.884Z",
+    "updatedAt": "2025-10-17T08:04:22.884Z"
+  },
+  {
+    "id": "e0518fd8-01b0-4fb0-8263-eb16ac160b19",
+    "userId": "ef88b39a-f775-40a9-a27e-fd3c859d9293",
+    "teamId": "117d0bca-debd-408c-999f-9302c6f50b04",
+    "joinedAt": "2025-10-17T08:04:22.884Z",
+    "createdAt": "2025-10-17T08:04:22.885Z",
+    "updatedAt": "2025-10-17T08:04:22.885Z"
+  },
+  {
+    "id": "5a6d3b80-784f-4186-81f3-d68edabf3157",
+    "userId": "a1a495d2-1aea-41cc-a988-8663ec88a95e",
+    "teamId": "9af9a468-ab84-493e-8bc3-670204ba8718",
+    "joinedAt": "2025-10-17T08:04:22.885Z",
+    "createdAt": "2025-10-17T08:04:22.885Z",
+    "updatedAt": "2025-10-17T08:04:22.885Z"
+  },
+  {
+    "id": "bbbe98c3-e6aa-4be0-b871-fd0b2e9fcff9",
+    "userId": "0d912b76-0829-4ac7-94ea-b6f4e7ad4a26",
+    "teamId": "1f3a7d79-c138-4700-a164-a4a5045b81d9",
+    "joinedAt": "2025-10-17T08:35:46.133Z",
+    "createdAt": "2025-10-17T08:35:46.133Z",
+    "updatedAt": "2025-10-17T08:35:46.133Z"
+  },
+  {
+    "id": "476229c2-6ede-46ed-bbc2-70297781f40a",
+    "userId": "0d912b76-0829-4ac7-94ea-b6f4e7ad4a26",
+    "teamId": "2f94c7c1-d80a-4c6a-a63b-486b5bfdc8ef",
+    "joinedAt": "2025-10-17T08:35:46.133Z",
+    "createdAt": "2025-10-17T08:35:46.133Z",
+    "updatedAt": "2025-10-17T08:35:46.133Z"
+  },
+  {
+    "id": "feb3340c-9861-4eb0-826f-30e34d364f76",
+    "userId": "cb4a8c10-ed33-4e21-9a45-7dfb6acfa430",
+    "teamId": "1f3a7d79-c138-4700-a164-a4a5045b81d9",
+    "joinedAt": "2025-10-17T08:35:46.134Z",
+    "createdAt": "2025-10-17T08:35:46.134Z",
+    "updatedAt": "2025-10-17T08:35:46.134Z"
+  },
+  {
+    "id": "1dba1e9f-025b-4d36-a0fb-49b6c312d6b2",
+    "userId": "8424d95e-3cce-48b9-810b-6e2a80e1bd6c",
+    "teamId": "2f94c7c1-d80a-4c6a-a63b-486b5bfdc8ef",
+    "joinedAt": "2025-10-17T08:35:46.134Z",
+    "createdAt": "2025-10-17T08:35:46.134Z",
+    "updatedAt": "2025-10-17T08:35:46.134Z"
+  },
+  {
+    "id": "93a559d5-2a1a-4104-b524-4f0fcc0aa7fe",
+    "userId": "b407d62c-b2cf-4c28-9c37-3c843d52a248",
+    "teamId": "14c2552f-1a39-4669-8dc6-cda7922961cd",
+    "joinedAt": "2025-10-17T09:20:15.726Z",
+    "createdAt": "2025-10-17T09:20:15.726Z",
+    "updatedAt": "2025-10-17T09:20:15.726Z"
+  },
+  {
+    "id": "285e865c-c7e4-4ff4-a658-f11cc75a7485",
+    "userId": "b407d62c-b2cf-4c28-9c37-3c843d52a248",
+    "teamId": "f32bb0cf-d732-4b92-afc6-e775420fae16",
+    "joinedAt": "2025-10-17T09:20:15.727Z",
+    "createdAt": "2025-10-17T09:20:15.727Z",
+    "updatedAt": "2025-10-17T09:20:15.727Z"
+  },
+  {
+    "id": "f160524a-c577-48d3-8e40-38ffb07a90cb",
+    "userId": "68455678-9981-447f-a9af-ebc241bd737d",
+    "teamId": "14c2552f-1a39-4669-8dc6-cda7922961cd",
+    "joinedAt": "2025-10-17T09:20:15.727Z",
+    "createdAt": "2025-10-17T09:20:15.727Z",
+    "updatedAt": "2025-10-17T09:20:15.727Z"
+  },
+  {
+    "id": "6444f19e-cbac-45c3-bdb1-1a5799500db9",
+    "userId": "bd1cb334-92d2-4020-b3b0-99ef02c82b69",
+    "teamId": "f32bb0cf-d732-4b92-afc6-e775420fae16",
+    "joinedAt": "2025-10-17T09:20:15.727Z",
+    "createdAt": "2025-10-17T09:20:15.727Z",
+    "updatedAt": "2025-10-17T09:20:15.727Z"
+  },
+  {
+    "id": "513352d6-bb6c-4c13-b0b1-02305b56a3ca",
+    "userId": "5f543b02-c85a-4e2c-af97-88ffff4c5075",
+    "teamId": "7c9b8e51-b4bb-496e-ae4d-c88fb95c598b",
+    "joinedAt": "2025-10-17T09:42:09.879Z",
+    "createdAt": "2025-10-17T09:42:09.879Z",
+    "updatedAt": "2025-10-17T09:42:09.879Z"
+  },
+  {
+    "id": "9a92e874-cbb2-4946-9330-88e41c398e4d",
+    "userId": "5f543b02-c85a-4e2c-af97-88ffff4c5075",
+    "teamId": "923f9ded-f4da-4658-a528-cbc1e5771d33",
+    "joinedAt": "2025-10-17T09:42:09.880Z",
+    "createdAt": "2025-10-17T09:42:09.880Z",
+    "updatedAt": "2025-10-17T09:42:09.880Z"
+  },
+  {
+    "id": "5e8e8b0d-9137-41b9-880c-8027ee63ad10",
+    "userId": "8d5553fd-40c2-4da3-b45f-bb773a599b0b",
+    "teamId": "7c9b8e51-b4bb-496e-ae4d-c88fb95c598b",
+    "joinedAt": "2025-10-17T09:42:09.880Z",
+    "createdAt": "2025-10-17T09:42:09.880Z",
+    "updatedAt": "2025-10-17T09:42:09.880Z"
+  },
+  {
+    "id": "ccfc490c-8d59-4fb5-a92f-468e8cfae777",
+    "userId": "acd1a771-1f2e-4bc0-bebf-3c4a50e116f7",
+    "teamId": "923f9ded-f4da-4658-a528-cbc1e5771d33",
+    "joinedAt": "2025-10-17T09:42:09.880Z",
+    "createdAt": "2025-10-17T09:42:09.880Z",
+    "updatedAt": "2025-10-17T09:42:09.880Z"
+  },
+  {
+    "id": "c38c274c-3ff2-4c17-b811-fb4000360f0f",
+    "userId": "57befd7b-33c1-4091-a0cd-cd653c57bd20",
+    "teamId": "23535a18-ca92-4c48-b395-3efcccfcfe88",
+    "joinedAt": "2025-10-17T10:28:59.146Z",
+    "createdAt": "2025-10-17T10:28:59.146Z",
+    "updatedAt": "2025-10-17T10:28:59.146Z"
+  },
+  {
+    "id": "8c850a42-4691-4947-9599-61a54a0c8cbf",
+    "userId": "57befd7b-33c1-4091-a0cd-cd653c57bd20",
+    "teamId": "8bcdb06a-3dff-4c1a-abdc-7f0a17972e0f",
+    "joinedAt": "2025-10-17T10:28:59.147Z",
+    "createdAt": "2025-10-17T10:28:59.147Z",
+    "updatedAt": "2025-10-17T10:28:59.147Z"
+  },
+  {
+    "id": "b8009118-4994-4922-8e00-3270bf666d6c",
+    "userId": "5c7701eb-319a-4f38-9f2e-513772cbf231",
+    "teamId": "23535a18-ca92-4c48-b395-3efcccfcfe88",
+    "joinedAt": "2025-10-17T10:28:59.148Z",
+    "createdAt": "2025-10-17T10:28:59.148Z",
+    "updatedAt": "2025-10-17T10:28:59.148Z"
+  },
+  {
+    "id": "30d86985-fcc0-43e7-a5f9-c1c0a67d724b",
+    "userId": "b12fd81c-ae19-465d-8cc8-c1eeee986b62",
+    "teamId": "8bcdb06a-3dff-4c1a-abdc-7f0a17972e0f",
+    "joinedAt": "2025-10-17T10:28:59.148Z",
+    "createdAt": "2025-10-17T10:28:59.148Z",
+    "updatedAt": "2025-10-17T10:28:59.148Z"
+  },
+  {
+    "id": "63b26598-fe3e-4db9-b228-8c3d7b12a1e2",
+    "userId": "95fdca5e-f6e0-4535-8d57-d1b23efae03f",
+    "teamId": "1dd6a4f9-b2dd-4b2d-879d-0f1564429bd2",
+    "joinedAt": "2025-10-17T10:37:31.910Z",
+    "createdAt": "2025-10-17T10:37:31.910Z",
+    "updatedAt": "2025-10-17T10:37:31.910Z"
+  },
+  {
+    "id": "a7f95143-4120-4aee-b16c-3e799a4356b7",
+    "userId": "95fdca5e-f6e0-4535-8d57-d1b23efae03f",
+    "teamId": "15c8080f-6d73-4c7e-a3b3-6a6569dc32be",
+    "joinedAt": "2025-10-17T10:37:31.910Z",
+    "createdAt": "2025-10-17T10:37:31.910Z",
+    "updatedAt": "2025-10-17T10:37:31.910Z"
+  },
+  {
+    "id": "43cba467-760f-4b85-b0be-3b59da398bd4",
+    "userId": "be631705-540a-481e-aede-337be77f6972",
+    "teamId": "1dd6a4f9-b2dd-4b2d-879d-0f1564429bd2",
+    "joinedAt": "2025-10-17T10:37:31.911Z",
+    "createdAt": "2025-10-17T10:37:31.911Z",
+    "updatedAt": "2025-10-17T10:37:31.911Z"
+  },
+  {
+    "id": "63b59d02-4ab9-4823-9fb3-59244124d84a",
+    "userId": "21a245da-03f2-4e1c-a66e-0e2513c220b7",
+    "teamId": "15c8080f-6d73-4c7e-a3b3-6a6569dc32be",
+    "joinedAt": "2025-10-17T10:37:31.911Z",
+    "createdAt": "2025-10-17T10:37:31.911Z",
+    "updatedAt": "2025-10-17T10:37:31.911Z"
+  },
+  {
+    "id": "cd8db1b2-956a-4d63-aef1-b7cc23368735",
+    "userId": "25c5de58-3565-43a5-96a2-2254442b65d8",
+    "teamId": "2b6d6255-36ca-402f-8843-a5b94f78a891",
+    "joinedAt": "2025-10-17T10:41:18.636Z",
+    "createdAt": "2025-10-17T10:41:18.636Z",
+    "updatedAt": "2025-10-17T10:41:18.636Z"
+  },
+  {
+    "id": "06ef49ca-516d-404d-b55b-dfd00d32d3b8",
+    "userId": "25c5de58-3565-43a5-96a2-2254442b65d8",
+    "teamId": "ea4dbc20-ffa3-4819-b935-6a2c3553e15b",
+    "joinedAt": "2025-10-17T10:41:18.636Z",
+    "createdAt": "2025-10-17T10:41:18.636Z",
+    "updatedAt": "2025-10-17T10:41:18.636Z"
+  },
+  {
+    "id": "ebe577f5-6bf5-4a02-8feb-c572ab69b5e6",
+    "userId": "543eab64-ca89-442c-b6b7-d494a4ac8ef3",
+    "teamId": "2b6d6255-36ca-402f-8843-a5b94f78a891",
+    "joinedAt": "2025-10-17T10:41:18.637Z",
+    "createdAt": "2025-10-17T10:41:18.637Z",
+    "updatedAt": "2025-10-17T10:41:18.637Z"
+  },
+  {
+    "id": "ed6f9fc2-d0dc-48fa-ae1d-7de103241703",
+    "userId": "11758da0-7177-4005-8416-2c6d81a6cc4a",
+    "teamId": "ea4dbc20-ffa3-4819-b935-6a2c3553e15b",
+    "joinedAt": "2025-10-17T10:41:18.637Z",
+    "createdAt": "2025-10-17T10:41:18.637Z",
+    "updatedAt": "2025-10-17T10:41:18.637Z"
+  },
+  {
+    "id": "6b0692e1-0a23-40be-a173-357fcf64041e",
+    "userId": "2b5f3a3e-d67d-47bf-89b7-07e5edc188f6",
+    "teamId": "b98f07bd-9efc-4a90-9053-a43c5141024d",
+    "joinedAt": "2025-10-17T12:40:24.609Z",
+    "createdAt": "2025-10-17T12:40:24.609Z",
+    "updatedAt": "2025-10-17T12:40:24.609Z"
+  },
+  {
+    "id": "d1b9e8fe-6de0-46c6-b25a-fec0a13531d9",
+    "userId": "2b5f3a3e-d67d-47bf-89b7-07e5edc188f6",
+    "teamId": "49de4d76-c14f-435f-8961-3dbea82dc8d4",
+    "joinedAt": "2025-10-17T12:40:24.609Z",
+    "createdAt": "2025-10-17T12:40:24.609Z",
+    "updatedAt": "2025-10-17T12:40:24.609Z"
+  },
+  {
+    "id": "629644b2-c4b5-49f2-9a83-bddb1dc11359",
+    "userId": "eddd7ec9-827b-478e-8f31-5bcaef349abf",
+    "teamId": "b98f07bd-9efc-4a90-9053-a43c5141024d",
+    "joinedAt": "2025-10-17T12:40:24.610Z",
+    "createdAt": "2025-10-17T12:40:24.610Z",
+    "updatedAt": "2025-10-17T12:40:24.610Z"
+  },
+  {
+    "id": "4e047763-8f2e-490e-8c1e-8456df5523b8",
+    "userId": "4d4b8a4c-de2f-42de-bb0d-9b67ab2eae23",
+    "teamId": "49de4d76-c14f-435f-8961-3dbea82dc8d4",
+    "joinedAt": "2025-10-17T12:40:24.610Z",
+    "createdAt": "2025-10-17T12:40:24.610Z",
+    "updatedAt": "2025-10-17T12:40:24.610Z"
+  },
+  {
+    "id": "7818773d-6225-4063-9bb0-33cb42313b88",
+    "userId": "6f305319-42bb-44cd-afa8-eac81b863901",
+    "teamId": "e7ae93f7-46d5-4510-87a4-aa0510df860c",
+    "joinedAt": "2025-10-17T12:42:03.372Z",
+    "createdAt": "2025-10-17T12:42:03.372Z",
+    "updatedAt": "2025-10-17T12:42:03.372Z"
+  },
+  {
+    "id": "37a2190e-0174-4f4f-9a0b-c8a73e1d8f4a",
+    "userId": "6f305319-42bb-44cd-afa8-eac81b863901",
+    "teamId": "09c2b96e-5916-4fa3-8008-befd34d9b646",
+    "joinedAt": "2025-10-17T12:42:03.373Z",
+    "createdAt": "2025-10-17T12:42:03.373Z",
+    "updatedAt": "2025-10-17T12:42:03.373Z"
+  },
+  {
+    "id": "9b3de988-2e5b-49aa-b5c9-c0f69943f748",
+    "userId": "c936dc01-6510-458b-b9f6-e44b1e97ca06",
+    "teamId": "e7ae93f7-46d5-4510-87a4-aa0510df860c",
+    "joinedAt": "2025-10-17T12:42:03.373Z",
+    "createdAt": "2025-10-17T12:42:03.373Z",
+    "updatedAt": "2025-10-17T12:42:03.373Z"
+  },
+  {
+    "id": "079cdaae-2b25-4655-aaa7-e2cbfa4ba5fd",
+    "userId": "f99d8621-4ab7-4152-9e1e-e0d076487039",
+    "teamId": "09c2b96e-5916-4fa3-8008-befd34d9b646",
+    "joinedAt": "2025-10-17T12:42:03.373Z",
+    "createdAt": "2025-10-17T12:42:03.373Z",
+    "updatedAt": "2025-10-17T12:42:03.373Z"
+  },
+  {
+    "id": "54e12541-41ed-424b-a9ed-0209d0752224",
+    "userId": "72b0dd56-5ab9-4c6a-945b-4e38a5cf70de",
+    "teamId": "2bce58fd-ce1b-4b43-a1d4-b362d68160cc",
+    "joinedAt": "2025-10-17T12:42:18.221Z",
+    "createdAt": "2025-10-17T12:42:18.221Z",
+    "updatedAt": "2025-10-17T12:42:18.221Z"
+  },
+  {
+    "id": "4fc49bbe-cd8c-4534-9b91-6c46abf5463c",
+    "userId": "72b0dd56-5ab9-4c6a-945b-4e38a5cf70de",
+    "teamId": "54648151-c7c5-430f-abd9-379a51a0b12a",
+    "joinedAt": "2025-10-17T12:42:18.221Z",
+    "createdAt": "2025-10-17T12:42:18.221Z",
+    "updatedAt": "2025-10-17T12:42:18.221Z"
+  },
+  {
+    "id": "f13d8b5d-5806-4571-8785-fdeef7d422c5",
+    "userId": "605323da-537a-4052-a5e5-613cbf7c4abd",
+    "teamId": "2bce58fd-ce1b-4b43-a1d4-b362d68160cc",
+    "joinedAt": "2025-10-17T12:42:18.221Z",
+    "createdAt": "2025-10-17T12:42:18.221Z",
+    "updatedAt": "2025-10-17T12:42:18.221Z"
+  },
+  {
+    "id": "6f668993-af21-424a-a631-f3d1e8b6f0bb",
+    "userId": "b1625197-2e65-45da-a967-c3a23b40d6d5",
+    "teamId": "54648151-c7c5-430f-abd9-379a51a0b12a",
+    "joinedAt": "2025-10-17T12:42:18.222Z",
+    "createdAt": "2025-10-17T12:42:18.222Z",
+    "updatedAt": "2025-10-17T12:42:18.222Z"
+  },
+  {
+    "id": "3e2cb242-ef1b-47f8-a640-a862a1346e9a",
+    "userId": "c471345e-e326-4608-bd51-0122b485709e",
+    "teamId": "ef585bc6-cc3d-4a68-853f-e96362836fd7",
+    "joinedAt": "2025-10-17T12:43:31.157Z",
+    "createdAt": "2025-10-17T12:43:31.157Z",
+    "updatedAt": "2025-10-17T12:43:31.157Z"
+  },
+  {
+    "id": "95d8344d-5e0d-4617-bcc0-c49f2f304cdc",
+    "userId": "c471345e-e326-4608-bd51-0122b485709e",
+    "teamId": "44fb9c61-ada6-4ad6-8554-c13925412111",
+    "joinedAt": "2025-10-17T12:43:31.157Z",
+    "createdAt": "2025-10-17T12:43:31.157Z",
+    "updatedAt": "2025-10-17T12:43:31.157Z"
+  },
+  {
+    "id": "f65b8a31-3e8d-4568-8ff4-67f2d33469b4",
+    "userId": "445b96cb-4abb-4b9f-b584-c7db59692acf",
+    "teamId": "ef585bc6-cc3d-4a68-853f-e96362836fd7",
+    "joinedAt": "2025-10-17T12:43:31.158Z",
+    "createdAt": "2025-10-17T12:43:31.158Z",
+    "updatedAt": "2025-10-17T12:43:31.158Z"
+  },
+  {
+    "id": "8cdeb008-39ed-40cf-84fd-b33b9fa084b2",
+    "userId": "d339cec8-91a0-4c67-8bcb-b6c29450993e",
+    "teamId": "44fb9c61-ada6-4ad6-8554-c13925412111",
+    "joinedAt": "2025-10-17T12:43:31.158Z",
+    "createdAt": "2025-10-17T12:43:31.158Z",
+    "updatedAt": "2025-10-17T12:43:31.158Z"
+  },
+  {
+    "id": "75b5470d-7380-4366-a9e8-485cb2035385",
+    "userId": "fc3ba8fb-499e-413a-bfa6-c6ab8e6a7f34",
+    "teamId": "9dea3edc-a307-4c31-bc8f-232c92325317",
+    "joinedAt": "2025-10-17T12:45:18.801Z",
+    "createdAt": "2025-10-17T12:45:18.801Z",
+    "updatedAt": "2025-10-17T12:45:18.801Z"
+  },
+  {
+    "id": "6c37a402-c672-4688-9a78-5cc9c24e0cd1",
+    "userId": "fc3ba8fb-499e-413a-bfa6-c6ab8e6a7f34",
+    "teamId": "05b72bd3-46cb-469e-beae-d71f85947270",
+    "joinedAt": "2025-10-17T12:45:18.801Z",
+    "createdAt": "2025-10-17T12:45:18.801Z",
+    "updatedAt": "2025-10-17T12:45:18.801Z"
+  },
+  {
+    "id": "d5ee1332-412c-41ac-8f47-02978abac46a",
+    "userId": "9051baed-dd10-4e68-8302-d163f4e7bdff",
+    "teamId": "9dea3edc-a307-4c31-bc8f-232c92325317",
+    "joinedAt": "2025-10-17T12:45:18.802Z",
+    "createdAt": "2025-10-17T12:45:18.802Z",
+    "updatedAt": "2025-10-17T12:45:18.802Z"
+  },
+  {
+    "id": "55a9ded1-d286-4c25-b932-395e001a05bf",
+    "userId": "0e16841c-a1d8-4f58-86b0-d2839f606587",
+    "teamId": "05b72bd3-46cb-469e-beae-d71f85947270",
+    "joinedAt": "2025-10-17T12:45:18.802Z",
+    "createdAt": "2025-10-17T12:45:18.802Z",
+    "updatedAt": "2025-10-17T12:45:18.802Z"
+  },
+  {
+    "id": "8eca218e-debf-4e31-a9fe-d57c9da6b7d2",
+    "userId": "ddeb4760-3c68-45d8-b246-fc4ed514eea6",
+    "teamId": "617fcd71-6f2a-4e19-8ef4-ebb938de0337",
+    "joinedAt": "2025-10-17T12:45:59.392Z",
+    "createdAt": "2025-10-17T12:45:59.392Z",
+    "updatedAt": "2025-10-17T12:45:59.392Z"
+  },
+  {
+    "id": "53dda0fe-500b-479c-a4e0-4886ddcc97fd",
+    "userId": "ddeb4760-3c68-45d8-b246-fc4ed514eea6",
+    "teamId": "8d1bd98a-4de2-4520-9752-76e8df371a1a",
+    "joinedAt": "2025-10-17T12:45:59.392Z",
+    "createdAt": "2025-10-17T12:45:59.392Z",
+    "updatedAt": "2025-10-17T12:45:59.392Z"
+  },
+  {
+    "id": "99497960-e090-4a1d-8bac-6338d0a60f63",
+    "userId": "0055a87c-3722-4617-b068-d54117995aa7",
+    "teamId": "617fcd71-6f2a-4e19-8ef4-ebb938de0337",
+    "joinedAt": "2025-10-17T12:45:59.393Z",
+    "createdAt": "2025-10-17T12:45:59.393Z",
+    "updatedAt": "2025-10-17T12:45:59.393Z"
+  },
+  {
+    "id": "cab63b13-423f-4e2f-bb65-8a20f50f28af",
+    "userId": "55bb0e10-dc5a-496e-82a0-638276b624b4",
+    "teamId": "8d1bd98a-4de2-4520-9752-76e8df371a1a",
+    "joinedAt": "2025-10-17T12:45:59.393Z",
+    "createdAt": "2025-10-17T12:45:59.393Z",
+    "updatedAt": "2025-10-17T12:45:59.393Z"
+  },
+  {
+    "id": "d7e932d9-1659-4d6e-a316-c8c348b36b64",
+    "userId": "daee2ad8-0f24-4bdf-9ed8-f3ebaccaebad",
+    "teamId": "de9b1245-3993-4306-95c8-7ced6f7e2159",
+    "joinedAt": "2025-10-17T12:46:44.319Z",
+    "createdAt": "2025-10-17T12:46:44.319Z",
+    "updatedAt": "2025-10-17T12:46:44.319Z"
+  },
+  {
+    "id": "7d0d4abc-b260-4425-a663-ce6877198660",
+    "userId": "daee2ad8-0f24-4bdf-9ed8-f3ebaccaebad",
+    "teamId": "6fefb7c6-08cb-43b5-99e0-995e9dc143ab",
+    "joinedAt": "2025-10-17T12:46:44.319Z",
+    "createdAt": "2025-10-17T12:46:44.319Z",
+    "updatedAt": "2025-10-17T12:46:44.319Z"
+  },
+  {
+    "id": "a1097ad1-9a57-43cb-bcbd-7552991e66f1",
+    "userId": "a03fbca9-5aca-40d2-9997-ddbc8836eb5e",
+    "teamId": "de9b1245-3993-4306-95c8-7ced6f7e2159",
+    "joinedAt": "2025-10-17T12:46:44.320Z",
+    "createdAt": "2025-10-17T12:46:44.320Z",
+    "updatedAt": "2025-10-17T12:46:44.320Z"
+  },
+  {
+    "id": "4d4b0fe9-e1fa-4aa2-b46f-bbc9349c5ac7",
+    "userId": "f25cb2a9-be05-47be-b55f-71d7434d3090",
+    "teamId": "6fefb7c6-08cb-43b5-99e0-995e9dc143ab",
+    "joinedAt": "2025-10-17T12:46:44.320Z",
+    "createdAt": "2025-10-17T12:46:44.320Z",
+    "updatedAt": "2025-10-17T12:46:44.320Z"
+  },
+  {
+    "id": "0e9b80f5-1517-4599-883b-f77994d41447",
+    "userId": "68cf758e-f51c-46c4-8979-63b91cd685c1",
+    "teamId": "d8243631-fc17-4911-9f63-67c3d8bbc42f",
+    "joinedAt": "2025-10-17T12:51:06.538Z",
+    "createdAt": "2025-10-17T12:51:06.538Z",
+    "updatedAt": "2025-10-17T12:51:06.538Z"
+  },
+  {
+    "id": "b9811d60-1f85-49dc-a222-e22bef1a9fb7",
+    "userId": "68cf758e-f51c-46c4-8979-63b91cd685c1",
+    "teamId": "f5c982c5-0653-4f45-a307-28da08acee51",
+    "joinedAt": "2025-10-17T12:51:06.539Z",
+    "createdAt": "2025-10-17T12:51:06.539Z",
+    "updatedAt": "2025-10-17T12:51:06.539Z"
+  },
+  {
+    "id": "cfd08650-5b7a-405a-b743-8cf91206fd51",
+    "userId": "bc789988-0be6-481c-85a1-ccb7805a0fed",
+    "teamId": "d8243631-fc17-4911-9f63-67c3d8bbc42f",
+    "joinedAt": "2025-10-17T12:51:06.539Z",
+    "createdAt": "2025-10-17T12:51:06.539Z",
+    "updatedAt": "2025-10-17T12:51:06.539Z"
+  },
+  {
+    "id": "41e1e260-b2ff-4a44-bd8e-1a76981c4277",
+    "userId": "76852dbf-8c4c-4022-97b7-605c58e786c1",
+    "teamId": "f5c982c5-0653-4f45-a307-28da08acee51",
+    "joinedAt": "2025-10-17T12:51:06.540Z",
+    "createdAt": "2025-10-17T12:51:06.540Z",
+    "updatedAt": "2025-10-17T12:51:06.540Z"
+  },
+  {
+    "id": "e00e2617-b995-41a5-afab-a46bd2b981b5",
+    "userId": "bcfa1b65-f9cc-44bb-afdb-90a6e797aaf7",
+    "teamId": "2e597f7b-bdac-4507-89d7-a2f0f5d4700f",
+    "joinedAt": "2025-10-17T12:52:31.744Z",
+    "createdAt": "2025-10-17T12:52:31.744Z",
+    "updatedAt": "2025-10-17T12:52:31.744Z"
+  },
+  {
+    "id": "144720f2-2d7a-49fa-960b-754a66a504a8",
+    "userId": "bcfa1b65-f9cc-44bb-afdb-90a6e797aaf7",
+    "teamId": "cbd02b0c-e022-47f0-a4e0-3a1d447f3c3f",
+    "joinedAt": "2025-10-17T12:52:31.745Z",
+    "createdAt": "2025-10-17T12:52:31.745Z",
+    "updatedAt": "2025-10-17T12:52:31.745Z"
+  },
+  {
+    "id": "951d4c44-a659-4837-adc7-79b27b873fb8",
+    "userId": "254b99e4-4e2c-4fbb-8372-829e74c36e5c",
+    "teamId": "2e597f7b-bdac-4507-89d7-a2f0f5d4700f",
+    "joinedAt": "2025-10-17T12:52:31.746Z",
+    "createdAt": "2025-10-17T12:52:31.748Z",
+    "updatedAt": "2025-10-17T12:52:31.748Z"
+  },
+  {
+    "id": "356153dc-817b-4dae-8c8d-96441a3ad899",
+    "userId": "112b9048-6861-4b80-ab16-da5e5a0e97cb",
+    "teamId": "cbd02b0c-e022-47f0-a4e0-3a1d447f3c3f",
+    "joinedAt": "2025-10-17T12:52:31.749Z",
+    "createdAt": "2025-10-17T12:52:31.749Z",
+    "updatedAt": "2025-10-17T12:52:31.749Z"
+  },
+  {
+    "id": "89d17402-177b-4e57-ba74-1ad441a890a8",
+    "userId": "09b455af-0c83-49f9-8480-bfad92158ae4",
+    "teamId": "7c2300d9-3422-44b5-8752-e19a6e3bd9c2",
+    "joinedAt": "2025-10-17T12:55:10.337Z",
+    "createdAt": "2025-10-17T12:55:10.337Z",
+    "updatedAt": "2025-10-17T12:55:10.337Z"
+  },
+  {
+    "id": "0fca1fe0-9ee4-4f8a-bdca-fbb6d3dfa9ac",
+    "userId": "09b455af-0c83-49f9-8480-bfad92158ae4",
+    "teamId": "0a795463-2b54-4d9e-91f8-ce92baa0101a",
+    "joinedAt": "2025-10-17T12:55:10.340Z",
+    "createdAt": "2025-10-17T12:55:10.340Z",
+    "updatedAt": "2025-10-17T12:55:10.340Z"
+  },
+  {
+    "id": "3d5250e6-d81a-4010-b61e-f037a90f2991",
+    "userId": "2c8c16d1-c692-48e8-85e0-ef90d4476483",
+    "teamId": "7c2300d9-3422-44b5-8752-e19a6e3bd9c2",
+    "joinedAt": "2025-10-17T12:55:10.341Z",
+    "createdAt": "2025-10-17T12:55:10.341Z",
+    "updatedAt": "2025-10-17T12:55:10.341Z"
+  },
+  {
+    "id": "b4ea0663-4e9e-4ab4-8e9c-55721d062400",
+    "userId": "a41fc2d6-e6a3-4256-a378-f04384abaf7d",
+    "teamId": "0a795463-2b54-4d9e-91f8-ce92baa0101a",
+    "joinedAt": "2025-10-17T12:55:10.342Z",
+    "createdAt": "2025-10-17T12:55:10.342Z",
+    "updatedAt": "2025-10-17T12:55:10.342Z"
+  },
+  {
+    "id": "763d22f8-a7ea-45ba-8d24-619c819ce50a",
+    "userId": "e01c3151-29ca-4dc3-9076-24f1ff3156ec",
+    "teamId": "6233cfa5-4f83-4673-81c7-5583aa294be0",
+    "joinedAt": "2025-10-17T12:56:02.589Z",
+    "createdAt": "2025-10-17T12:56:02.589Z",
+    "updatedAt": "2025-10-17T12:56:02.589Z"
+  },
+  {
+    "id": "831ce7c1-c8f3-4302-95e5-d596c4fda6b9",
+    "userId": "e01c3151-29ca-4dc3-9076-24f1ff3156ec",
+    "teamId": "6b98d7db-e450-406a-8eb5-a0e9ec113d34",
+    "joinedAt": "2025-10-17T12:56:02.589Z",
+    "createdAt": "2025-10-17T12:56:02.589Z",
+    "updatedAt": "2025-10-17T12:56:02.589Z"
+  },
+  {
+    "id": "9286c70f-c896-4988-a300-3b701fa268b1",
+    "userId": "afbc7a0c-b649-4e95-9faf-f896659091e3",
+    "teamId": "6233cfa5-4f83-4673-81c7-5583aa294be0",
+    "joinedAt": "2025-10-17T12:56:02.590Z",
+    "createdAt": "2025-10-17T12:56:02.590Z",
+    "updatedAt": "2025-10-17T12:56:02.590Z"
+  },
+  {
+    "id": "c3a01c96-0c53-4e51-9098-00ca767ceb33",
+    "userId": "f32ff151-a14b-4ceb-b846-b0c1fa963ac3",
+    "teamId": "6b98d7db-e450-406a-8eb5-a0e9ec113d34",
+    "joinedAt": "2025-10-17T12:56:02.590Z",
+    "createdAt": "2025-10-17T12:56:02.590Z",
+    "updatedAt": "2025-10-17T12:56:02.590Z"
+  },
+  {
+    "id": "706e4c49-f1c9-4e18-91fa-1ae3b6d02d54",
+    "userId": "6a8cdc8a-3a6d-44e9-825a-650232626588",
+    "teamId": "ac68621e-8ea4-411a-8818-c80113c994e9",
+    "joinedAt": "2025-10-17T12:56:42.769Z",
+    "createdAt": "2025-10-17T12:56:42.769Z",
+    "updatedAt": "2025-10-17T12:56:42.769Z"
+  },
+  {
+    "id": "956d4b26-4a0c-4c56-936e-5a9dcde1b4a7",
+    "userId": "6a8cdc8a-3a6d-44e9-825a-650232626588",
+    "teamId": "d6012beb-d945-437c-9f76-4b8317266b12",
+    "joinedAt": "2025-10-17T12:56:42.770Z",
+    "createdAt": "2025-10-17T12:56:42.770Z",
+    "updatedAt": "2025-10-17T12:56:42.770Z"
+  },
+  {
+    "id": "1e740f9d-0c7d-46b8-acdc-d3fe349e173a",
+    "userId": "93e4cf55-7d03-4af5-8d1c-3a757d797a19",
+    "teamId": "ac68621e-8ea4-411a-8818-c80113c994e9",
+    "joinedAt": "2025-10-17T12:56:42.771Z",
+    "createdAt": "2025-10-17T12:56:42.771Z",
+    "updatedAt": "2025-10-17T12:56:42.771Z"
+  },
+  {
+    "id": "b209498e-08e1-45fd-ba9d-952d6ec76874",
+    "userId": "d8595a8e-6b64-48d4-8df8-87a0e0429689",
+    "teamId": "d6012beb-d945-437c-9f76-4b8317266b12",
+    "joinedAt": "2025-10-17T12:56:42.772Z",
+    "createdAt": "2025-10-17T12:56:42.772Z",
+    "updatedAt": "2025-10-17T12:56:42.772Z"
+  },
+  {
+    "id": "a5b08872-229d-471a-a813-ed8025b44924",
+    "userId": "dd8d706b-a4ae-4c58-92dd-f8eeefab80a4",
+    "teamId": "c14487ad-49b5-4008-8553-1ae54239d1b8",
+    "joinedAt": "2025-10-17T12:57:13.046Z",
+    "createdAt": "2025-10-17T12:57:13.046Z",
+    "updatedAt": "2025-10-17T12:57:13.046Z"
+  },
+  {
+    "id": "a0991497-4748-474b-a70f-0fcff439d3d1",
+    "userId": "dd8d706b-a4ae-4c58-92dd-f8eeefab80a4",
+    "teamId": "bcb0424f-a708-4b53-91fb-40c739614b53",
+    "joinedAt": "2025-10-17T12:57:13.047Z",
+    "createdAt": "2025-10-17T12:57:13.047Z",
+    "updatedAt": "2025-10-17T12:57:13.047Z"
+  },
+  {
+    "id": "db5f678c-06ca-4b7d-b07d-6b0bc6821d9d",
+    "userId": "4302169e-5fab-401f-874b-60c037c5e4f8",
+    "teamId": "c14487ad-49b5-4008-8553-1ae54239d1b8",
+    "joinedAt": "2025-10-17T12:57:13.048Z",
+    "createdAt": "2025-10-17T12:57:13.048Z",
+    "updatedAt": "2025-10-17T12:57:13.048Z"
+  },
+  {
+    "id": "2a0b90f4-323e-43ec-a4bc-c5b689a184dc",
+    "userId": "02177d88-15bb-4686-81f9-f963ec5ff6d4",
+    "teamId": "bcb0424f-a708-4b53-91fb-40c739614b53",
+    "joinedAt": "2025-10-17T12:57:13.048Z",
+    "createdAt": "2025-10-17T12:57:13.048Z",
+    "updatedAt": "2025-10-17T12:57:13.048Z"
+  },
+  {
+    "id": "19d713e7-f8a9-4b38-9ab8-9536740c1e53",
+    "userId": "72b7a546-2b32-4007-bed4-c8a583518983",
+    "teamId": "afe5181f-3b43-4e27-b476-aae94434fe92",
+    "joinedAt": "2025-10-17T12:59:32.689Z",
+    "createdAt": "2025-10-17T12:59:32.689Z",
+    "updatedAt": "2025-10-17T12:59:32.689Z"
+  },
+  {
+    "id": "b65b01c3-4434-42db-8122-8c05d61142df",
+    "userId": "72b7a546-2b32-4007-bed4-c8a583518983",
+    "teamId": "c257b951-f4b7-4488-b020-e3416c2f0064",
+    "joinedAt": "2025-10-17T12:59:32.690Z",
+    "createdAt": "2025-10-17T12:59:32.690Z",
+    "updatedAt": "2025-10-17T12:59:32.690Z"
+  },
+  {
+    "id": "7c54f96a-4bcf-4a52-b5ca-c6f59ad4e369",
+    "userId": "817b1f09-defb-4c77-8271-fbe6e82ae5c2",
+    "teamId": "afe5181f-3b43-4e27-b476-aae94434fe92",
+    "joinedAt": "2025-10-17T12:59:32.690Z",
+    "createdAt": "2025-10-17T12:59:32.690Z",
+    "updatedAt": "2025-10-17T12:59:32.690Z"
+  },
+  {
+    "id": "51169be5-48bc-4820-884f-6639f628c521",
+    "userId": "67d51d8e-99ad-4f56-8f2c-a1098c877ecf",
+    "teamId": "c257b951-f4b7-4488-b020-e3416c2f0064",
+    "joinedAt": "2025-10-17T12:59:32.691Z",
+    "createdAt": "2025-10-17T12:59:32.691Z",
+    "updatedAt": "2025-10-17T12:59:32.691Z"
+  },
+  {
+    "id": "a7894b3f-f26d-4137-bafe-7840e7ba3c24",
+    "userId": "14e7e086-696d-47f6-80d7-77ae2c416b31",
+    "teamId": "d50722a6-c201-49a5-8927-d4f160a8d8e7",
+    "joinedAt": "2025-10-17T13:01:12.097Z",
+    "createdAt": "2025-10-17T13:01:12.098Z",
+    "updatedAt": "2025-10-17T13:01:12.098Z"
+  },
+  {
+    "id": "3421c535-7858-4a74-b43d-cf4ca08a5452",
+    "userId": "14e7e086-696d-47f6-80d7-77ae2c416b31",
+    "teamId": "6a7017d7-b7ec-4fec-8c38-a601f1e94f3d",
+    "joinedAt": "2025-10-17T13:01:12.098Z",
+    "createdAt": "2025-10-17T13:01:12.098Z",
+    "updatedAt": "2025-10-17T13:01:12.098Z"
+  },
+  {
+    "id": "bb08c6c5-405b-4918-a92e-193c585da03d",
+    "userId": "a6c34a95-4d3a-4df0-9a8a-88db82c95980",
+    "teamId": "d50722a6-c201-49a5-8927-d4f160a8d8e7",
+    "joinedAt": "2025-10-17T13:01:12.098Z",
+    "createdAt": "2025-10-17T13:01:12.098Z",
+    "updatedAt": "2025-10-17T13:01:12.098Z"
+  },
+  {
+    "id": "ebd49bc1-7429-4fc4-b67f-d06c8740bb93",
+    "userId": "a370724f-5a88-49a2-b71d-1e3b0b5b8b77",
+    "teamId": "6a7017d7-b7ec-4fec-8c38-a601f1e94f3d",
+    "joinedAt": "2025-10-17T13:01:12.099Z",
+    "createdAt": "2025-10-17T13:01:12.099Z",
+    "updatedAt": "2025-10-17T13:01:12.099Z"
+  },
+  {
+    "id": "88b0e662-69bb-4c2a-9d9c-1e6029b4fc57",
+    "userId": "a8779d94-06a5-454a-9d58-e495e4b188d0",
+    "teamId": "96920ce1-bfb5-423c-8515-c9222f69b083",
+    "joinedAt": "2025-10-17T13:03:03.913Z",
+    "createdAt": "2025-10-17T13:03:03.913Z",
+    "updatedAt": "2025-10-17T13:03:03.913Z"
+  },
+  {
+    "id": "f2f53f58-dba1-4497-b98b-f3d60e55da25",
+    "userId": "a8779d94-06a5-454a-9d58-e495e4b188d0",
+    "teamId": "c7c46fe5-19f4-4bd2-82bb-2ffd4df8c775",
+    "joinedAt": "2025-10-17T13:03:03.915Z",
+    "createdAt": "2025-10-17T13:03:03.915Z",
+    "updatedAt": "2025-10-17T13:03:03.915Z"
+  },
+  {
+    "id": "ebd8f593-04f3-4f41-9e9b-69b602fb452c",
+    "userId": "fa46f4b9-9e6f-4507-a97a-73efc4e5bc2c",
+    "teamId": "96920ce1-bfb5-423c-8515-c9222f69b083",
+    "joinedAt": "2025-10-17T13:03:03.917Z",
+    "createdAt": "2025-10-17T13:03:03.917Z",
+    "updatedAt": "2025-10-17T13:03:03.917Z"
+  },
+  {
+    "id": "0d35716d-ad2f-4323-9de5-5783635da929",
+    "userId": "2246702c-6606-43a2-b37b-4549ce974b35",
+    "teamId": "c7c46fe5-19f4-4bd2-82bb-2ffd4df8c775",
+    "joinedAt": "2025-10-17T13:03:03.918Z",
+    "createdAt": "2025-10-17T13:03:03.918Z",
+    "updatedAt": "2025-10-17T13:03:03.918Z"
+  },
+  {
+    "id": "c16b042b-51f0-47c7-ae1c-4ab2089c16fe",
+    "userId": "aebda563-f5da-4127-9bde-a7d117d0893b",
+    "teamId": "a0f3a2f5-f094-453a-bc7b-b15493aa97f0",
+    "joinedAt": "2025-10-17T13:04:12.623Z",
+    "createdAt": "2025-10-17T13:04:12.623Z",
+    "updatedAt": "2025-10-17T13:04:12.623Z"
+  },
+  {
+    "id": "96cd5335-4d4b-4cef-a801-cd64dceeafac",
+    "userId": "aebda563-f5da-4127-9bde-a7d117d0893b",
+    "teamId": "8f80770a-4294-4af7-97d7-2f765be9e352",
+    "joinedAt": "2025-10-17T13:04:12.624Z",
+    "createdAt": "2025-10-17T13:04:12.624Z",
+    "updatedAt": "2025-10-17T13:04:12.624Z"
+  },
+  {
+    "id": "a9be90f9-0224-485d-a224-55a5255eac1c",
+    "userId": "789fa7ee-3d54-4e56-ba50-c64937439c49",
+    "teamId": "a0f3a2f5-f094-453a-bc7b-b15493aa97f0",
+    "joinedAt": "2025-10-17T13:04:12.624Z",
+    "createdAt": "2025-10-17T13:04:12.624Z",
+    "updatedAt": "2025-10-17T13:04:12.624Z"
+  },
+  {
+    "id": "52b23a47-263f-4983-b941-6666891b1153",
+    "userId": "501d68a4-56a3-49ff-b5bd-0a4e644efe67",
+    "teamId": "8f80770a-4294-4af7-97d7-2f765be9e352",
+    "joinedAt": "2025-10-17T13:04:12.624Z",
+    "createdAt": "2025-10-17T13:04:12.624Z",
+    "updatedAt": "2025-10-17T13:04:12.624Z"
+  },
+  {
+    "id": "34f148cf-f26c-4bad-9807-149e98d566a6",
+    "userId": "28426e0b-37dc-4a39-83f3-121d4fcd31e5",
+    "teamId": "121615a4-1147-4b75-9f24-a50b92bb294a",
+    "joinedAt": "2025-10-17T13:07:00.852Z",
+    "createdAt": "2025-10-17T13:07:00.852Z",
+    "updatedAt": "2025-10-17T13:07:00.852Z"
+  },
+  {
+    "id": "8c6c2372-3b5d-47d4-b1d4-317b436c4fb9",
+    "userId": "28426e0b-37dc-4a39-83f3-121d4fcd31e5",
+    "teamId": "6b978bc5-b5ab-4476-ae7f-cb3c817219e8",
+    "joinedAt": "2025-10-17T13:07:00.852Z",
+    "createdAt": "2025-10-17T13:07:00.852Z",
+    "updatedAt": "2025-10-17T13:07:00.852Z"
+  },
+  {
+    "id": "3b06a6bc-3628-4972-823a-68170f8109ef",
+    "userId": "c5349a60-87b1-44ae-9109-173adf1adc41",
+    "teamId": "121615a4-1147-4b75-9f24-a50b92bb294a",
+    "joinedAt": "2025-10-17T13:07:00.852Z",
+    "createdAt": "2025-10-17T13:07:00.852Z",
+    "updatedAt": "2025-10-17T13:07:00.852Z"
+  },
+  {
+    "id": "d4d8566a-572c-422e-bd58-b6e7ea1d69d0",
+    "userId": "75db824f-6037-44b2-a5cd-716b29619785",
+    "teamId": "6b978bc5-b5ab-4476-ae7f-cb3c817219e8",
+    "joinedAt": "2025-10-17T13:07:00.853Z",
+    "createdAt": "2025-10-17T13:07:00.853Z",
+    "updatedAt": "2025-10-17T13:07:00.853Z"
+  },
+  {
+    "id": "04b040ab-92fc-4a0b-b58b-b6a40884143a",
+    "userId": "8ff4f701-fec4-46be-bcaa-653d3bd647fd",
+    "teamId": "768e941f-dc81-4610-9cbc-baa461e1ce5e",
+    "joinedAt": "2025-10-17T13:08:12.660Z",
+    "createdAt": "2025-10-17T13:08:12.660Z",
+    "updatedAt": "2025-10-17T13:08:12.660Z"
+  },
+  {
+    "id": "10bcb65e-b342-49f9-b2a2-967e0d23876c",
+    "userId": "8ff4f701-fec4-46be-bcaa-653d3bd647fd",
+    "teamId": "015f0dc9-b0df-4c1c-950c-4e1c05a2601f",
+    "joinedAt": "2025-10-17T13:08:12.661Z",
+    "createdAt": "2025-10-17T13:08:12.661Z",
+    "updatedAt": "2025-10-17T13:08:12.661Z"
+  },
+  {
+    "id": "83ae4785-34ce-4011-baa8-be0f6e87f816",
+    "userId": "f3fd2287-345a-4ba5-8f3a-ac148c2d98d3",
+    "teamId": "768e941f-dc81-4610-9cbc-baa461e1ce5e",
+    "joinedAt": "2025-10-17T13:08:12.661Z",
+    "createdAt": "2025-10-17T13:08:12.661Z",
+    "updatedAt": "2025-10-17T13:08:12.661Z"
+  },
+  {
+    "id": "d5fcdfc0-c546-49b2-aed4-8b3030bc209c",
+    "userId": "fee0246d-e200-47d7-80a6-79438bf53a77",
+    "teamId": "015f0dc9-b0df-4c1c-950c-4e1c05a2601f",
+    "joinedAt": "2025-10-17T13:08:12.662Z",
+    "createdAt": "2025-10-17T13:08:12.662Z",
+    "updatedAt": "2025-10-17T13:08:12.662Z"
+  },
+  {
+    "id": "b6b47ad1-fa13-4984-a72c-64aafc674695",
+    "userId": "8aae7a97-f585-42db-ad50-2fb00454d80c",
+    "teamId": "bad8d1db-af55-4fb4-b316-efc492863488",
+    "joinedAt": "2025-10-17T13:08:22.109Z",
+    "createdAt": "2025-10-17T13:08:22.109Z",
+    "updatedAt": "2025-10-17T13:08:22.109Z"
+  },
+  {
+    "id": "545409db-bea7-436a-b3fd-fead1b84011d",
+    "userId": "8aae7a97-f585-42db-ad50-2fb00454d80c",
+    "teamId": "aa6133e5-5bba-4368-ad00-c10d57354493",
+    "joinedAt": "2025-10-17T13:08:22.110Z",
+    "createdAt": "2025-10-17T13:08:22.110Z",
+    "updatedAt": "2025-10-17T13:08:22.110Z"
+  },
+  {
+    "id": "e43f12f4-561d-45ca-8fd5-410c4c75afd3",
+    "userId": "a81efa65-88d8-4571-878f-719372973f0a",
+    "teamId": "bad8d1db-af55-4fb4-b316-efc492863488",
+    "joinedAt": "2025-10-17T13:08:22.111Z",
+    "createdAt": "2025-10-17T13:08:22.111Z",
+    "updatedAt": "2025-10-17T13:08:22.111Z"
+  },
+  {
+    "id": "c2df38a5-aa28-4e56-88a9-32cd0ee7fade",
+    "userId": "7bdb095c-afc4-4297-9580-3eae955749d1",
+    "teamId": "aa6133e5-5bba-4368-ad00-c10d57354493",
+    "joinedAt": "2025-10-17T13:08:22.112Z",
+    "createdAt": "2025-10-17T13:08:22.112Z",
+    "updatedAt": "2025-10-17T13:08:22.112Z"
+  },
+  {
+    "id": "7723f337-a62c-4871-a974-e683a5a20a2f",
+    "userId": "c8b5eb35-42cd-40c7-9a31-9f9f59d3b5d7",
+    "teamId": "264553f3-88da-48bb-84fe-0bc076fa5111",
+    "joinedAt": "2025-10-17T13:12:56.997Z",
+    "createdAt": "2025-10-17T13:12:56.997Z",
+    "updatedAt": "2025-10-17T13:12:56.997Z"
+  },
+  {
+    "id": "46a950f1-6eab-4d7b-b7b3-62d77cda95b3",
+    "userId": "c8b5eb35-42cd-40c7-9a31-9f9f59d3b5d7",
+    "teamId": "81d6ba91-9c72-4392-baa0-df5e015e1449",
+    "joinedAt": "2025-10-17T13:12:56.998Z",
+    "createdAt": "2025-10-17T13:12:56.998Z",
+    "updatedAt": "2025-10-17T13:12:56.998Z"
+  },
+  {
+    "id": "4eae8b5e-27a2-4484-adcd-2e4f3429fc67",
+    "userId": "cba7453b-3edc-4d67-8a75-13b3298ee60a",
+    "teamId": "264553f3-88da-48bb-84fe-0bc076fa5111",
+    "joinedAt": "2025-10-17T13:12:56.998Z",
+    "createdAt": "2025-10-17T13:12:56.998Z",
+    "updatedAt": "2025-10-17T13:12:56.998Z"
+  },
+  {
+    "id": "9a891997-5f18-4bc2-b3e8-a62070bd8539",
+    "userId": "2a9c1327-dc7e-4fd2-881a-7923e6b95c8c",
+    "teamId": "81d6ba91-9c72-4392-baa0-df5e015e1449",
+    "joinedAt": "2025-10-17T13:12:56.999Z",
+    "createdAt": "2025-10-17T13:12:56.999Z",
+    "updatedAt": "2025-10-17T13:12:56.999Z"
+  },
+  {
+    "id": "5dec8cac-52b4-49fc-971b-eeb9809be786",
+    "userId": "f6f2acb1-5ba4-4e15-a00f-ba983b3f7057",
+    "teamId": "7ffa9c9f-48e4-4df4-842a-ca5247193922",
+    "joinedAt": "2025-10-17T13:17:40.872Z",
+    "createdAt": "2025-10-17T13:17:40.873Z",
+    "updatedAt": "2025-10-17T13:17:40.873Z"
+  },
+  {
+    "id": "6af0fbbc-6cce-4ac3-8dac-003c893664f1",
+    "userId": "f6f2acb1-5ba4-4e15-a00f-ba983b3f7057",
+    "teamId": "e4f0dda1-3d5d-450a-b827-7216fd407630",
+    "joinedAt": "2025-10-17T13:17:40.873Z",
+    "createdAt": "2025-10-17T13:17:40.873Z",
+    "updatedAt": "2025-10-17T13:17:40.873Z"
+  },
+  {
+    "id": "052950f3-6199-4c2d-90ba-7ab3b25ff4b7",
+    "userId": "ac891882-0af2-41cc-b357-503488a35541",
+    "teamId": "7ffa9c9f-48e4-4df4-842a-ca5247193922",
+    "joinedAt": "2025-10-17T13:17:40.873Z",
+    "createdAt": "2025-10-17T13:17:40.873Z",
+    "updatedAt": "2025-10-17T13:17:40.873Z"
+  },
+  {
+    "id": "98a00bdf-1fdf-4ffa-a4bc-2d3ece4461a6",
+    "userId": "d564680b-746b-4ed6-abfe-5468723558b6",
+    "teamId": "e4f0dda1-3d5d-450a-b827-7216fd407630",
+    "joinedAt": "2025-10-17T13:17:40.874Z",
+    "createdAt": "2025-10-17T13:17:40.874Z",
+    "updatedAt": "2025-10-17T13:17:40.874Z"
+  },
+  {
+    "id": "167ff3e2-2cda-47a0-b0df-994046b3dbae",
+    "userId": "d84d8da4-1371-44da-b7be-f9d24991459c",
+    "teamId": "b8b28208-60bd-4d5d-804b-fdeb4b460323",
+    "joinedAt": "2025-10-17T13:22:08.184Z",
+    "createdAt": "2025-10-17T13:22:08.184Z",
+    "updatedAt": "2025-10-17T13:22:08.184Z"
+  },
+  {
+    "id": "7300a0f6-4973-4322-bfb3-1b830604008d",
+    "userId": "d84d8da4-1371-44da-b7be-f9d24991459c",
+    "teamId": "53d39cf3-8133-4352-b309-2abaec680662",
+    "joinedAt": "2025-10-17T13:22:08.185Z",
+    "createdAt": "2025-10-17T13:22:08.185Z",
+    "updatedAt": "2025-10-17T13:22:08.185Z"
+  },
+  {
+    "id": "a289e8c9-6422-4803-857d-45fb16a96d9f",
+    "userId": "ecd07dc0-7e23-4597-9fd0-7c7f399cc34e",
+    "teamId": "b8b28208-60bd-4d5d-804b-fdeb4b460323",
+    "joinedAt": "2025-10-17T13:22:08.185Z",
+    "createdAt": "2025-10-17T13:22:08.185Z",
+    "updatedAt": "2025-10-17T13:22:08.185Z"
+  },
+  {
+    "id": "11bbbb28-f0f1-496c-a8ff-1289d3e83175",
+    "userId": "cf0a8b77-ee0c-42ba-920d-2246d96fda4d",
+    "teamId": "53d39cf3-8133-4352-b309-2abaec680662",
+    "joinedAt": "2025-10-17T13:22:08.186Z",
+    "createdAt": "2025-10-17T13:22:08.186Z",
+    "updatedAt": "2025-10-17T13:22:08.186Z"
+  },
+  {
+    "id": "8ba66c78-08c9-4924-bd20-1f0e8710a7ec",
+    "userId": "09769f00-1daa-461f-9432-bf44dadb74cf",
+    "teamId": "1074b54f-ec9b-4e5f-b1be-3d1b7c4e7819",
+    "joinedAt": "2025-10-17T13:24:59.950Z",
+    "createdAt": "2025-10-17T13:24:59.950Z",
+    "updatedAt": "2025-10-17T13:24:59.950Z"
+  },
+  {
+    "id": "44463c3c-44df-4946-b8e0-c8d7e764f572",
+    "userId": "09769f00-1daa-461f-9432-bf44dadb74cf",
+    "teamId": "efe2a5e7-433f-49df-8c08-46a643fa922f",
+    "joinedAt": "2025-10-17T13:24:59.952Z",
+    "createdAt": "2025-10-17T13:24:59.952Z",
+    "updatedAt": "2025-10-17T13:24:59.952Z"
+  },
+  {
+    "id": "7dd426e5-0f45-45fd-a514-44e5e0f30ae7",
+    "userId": "a0489711-e370-424a-b4be-0c7ea14b5f87",
+    "teamId": "1074b54f-ec9b-4e5f-b1be-3d1b7c4e7819",
+    "joinedAt": "2025-10-17T13:24:59.953Z",
+    "createdAt": "2025-10-17T13:24:59.954Z",
+    "updatedAt": "2025-10-17T13:24:59.954Z"
+  },
+  {
+    "id": "94a1ac57-d14b-4bd0-9ae0-a3775337d84b",
+    "userId": "9d874af2-bc87-4b33-baf1-20d4d413b8d3",
+    "teamId": "efe2a5e7-433f-49df-8c08-46a643fa922f",
+    "joinedAt": "2025-10-17T13:24:59.955Z",
+    "createdAt": "2025-10-17T13:24:59.955Z",
+    "updatedAt": "2025-10-17T13:24:59.955Z"
+  },
+  {
+    "id": "5c403188-7fa1-4650-880d-ccdd58a7dea8",
+    "userId": "b05c8010-9aae-41f7-bdac-3ab7d0a948f5",
+    "teamId": "012ae0e4-ff83-4054-b2c3-a2d73c7b58c5",
+    "joinedAt": "2025-10-17T13:26:38.946Z",
+    "createdAt": "2025-10-17T13:26:38.946Z",
+    "updatedAt": "2025-10-17T13:26:38.946Z"
+  },
+  {
+    "id": "401bbccd-4a93-4729-acd7-a05ecdd8f192",
+    "userId": "b05c8010-9aae-41f7-bdac-3ab7d0a948f5",
+    "teamId": "d1cd64c6-0b99-47ea-bfb8-34a29a1f9045",
+    "joinedAt": "2025-10-17T13:26:38.947Z",
+    "createdAt": "2025-10-17T13:26:38.947Z",
+    "updatedAt": "2025-10-17T13:26:38.947Z"
+  },
+  {
+    "id": "57bc1c8d-77ab-416d-8109-1bdf4de72d9d",
+    "userId": "2b6920bc-7c68-4724-b13f-85da9ebc9d1d",
+    "teamId": "012ae0e4-ff83-4054-b2c3-a2d73c7b58c5",
+    "joinedAt": "2025-10-17T13:26:38.948Z",
+    "createdAt": "2025-10-17T13:26:38.948Z",
+    "updatedAt": "2025-10-17T13:26:38.948Z"
+  },
+  {
+    "id": "7ae99ec2-25b3-42df-8891-293c7bb76aa9",
+    "userId": "e1802f2d-9896-4987-bd92-5efdedb5bde2",
+    "teamId": "d1cd64c6-0b99-47ea-bfb8-34a29a1f9045",
+    "joinedAt": "2025-10-17T13:26:38.949Z",
+    "createdAt": "2025-10-17T13:26:38.949Z",
+    "updatedAt": "2025-10-17T13:26:38.949Z"
+  },
+  {
+    "id": "b556a615-05b9-4506-b5f8-0fd4a284476c",
+    "userId": "ad9dcdc7-581a-40b1-a3b1-07401d444651",
+    "teamId": "1e498f8e-fca7-48a6-9734-c4bebdfe01ff",
+    "joinedAt": "2025-10-17T13:28:18.857Z",
+    "createdAt": "2025-10-17T13:28:18.857Z",
+    "updatedAt": "2025-10-17T13:28:18.857Z"
+  },
+  {
+    "id": "8b239e94-fbcd-4bdd-9f95-983ce7683765",
+    "userId": "ad9dcdc7-581a-40b1-a3b1-07401d444651",
+    "teamId": "a17979b5-5567-4219-aabd-34ccaa485bbb",
+    "joinedAt": "2025-10-17T13:28:18.857Z",
+    "createdAt": "2025-10-17T13:28:18.857Z",
+    "updatedAt": "2025-10-17T13:28:18.857Z"
+  },
+  {
+    "id": "b3264fc9-4a01-4e66-b00a-b9c9982e5709",
+    "userId": "7ffc6ab6-bc9c-43e6-bbf5-144715782fdf",
+    "teamId": "1e498f8e-fca7-48a6-9734-c4bebdfe01ff",
+    "joinedAt": "2025-10-17T13:28:18.858Z",
+    "createdAt": "2025-10-17T13:28:18.858Z",
+    "updatedAt": "2025-10-17T13:28:18.858Z"
+  },
+  {
+    "id": "ee1cdd72-ad13-4cc2-8cb5-8673a3be8a0d",
+    "userId": "3dabd663-1bc1-486e-a9cb-d3060d50771e",
+    "teamId": "a17979b5-5567-4219-aabd-34ccaa485bbb",
+    "joinedAt": "2025-10-17T13:28:18.858Z",
+    "createdAt": "2025-10-17T13:28:18.858Z",
+    "updatedAt": "2025-10-17T13:28:18.858Z"
+  },
+  {
+    "id": "bd4e31ae-6d30-49f6-90a3-8dec46983b19",
+    "userId": "8c152576-d938-48d1-98b7-2d37232f8849",
+    "teamId": "bb3aad74-9118-41f3-9812-6130153ff706",
+    "joinedAt": "2025-10-17T13:30:05.832Z",
+    "createdAt": "2025-10-17T13:30:05.832Z",
+    "updatedAt": "2025-10-17T13:30:05.832Z"
+  },
+  {
+    "id": "98be9dc6-74c3-4fae-be6e-234cbb03a9f4",
+    "userId": "8c152576-d938-48d1-98b7-2d37232f8849",
+    "teamId": "f0edfc23-267b-4164-a50b-ecc241521bea",
+    "joinedAt": "2025-10-17T13:30:05.833Z",
+    "createdAt": "2025-10-17T13:30:05.833Z",
+    "updatedAt": "2025-10-17T13:30:05.833Z"
+  },
+  {
+    "id": "3abb0d7b-1985-4b28-80bd-9cf015e7b7d1",
+    "userId": "80bc32af-ac1c-4c39-836b-74b080e56b83",
+    "teamId": "bb3aad74-9118-41f3-9812-6130153ff706",
+    "joinedAt": "2025-10-17T13:30:05.834Z",
+    "createdAt": "2025-10-17T13:30:05.834Z",
+    "updatedAt": "2025-10-17T13:30:05.834Z"
+  },
+  {
+    "id": "872fcc0f-fd7b-4b9d-9917-6f2a67418d16",
+    "userId": "cdeb1a0a-a9b4-4ebd-ac8c-c80cbd0804e0",
+    "teamId": "f0edfc23-267b-4164-a50b-ecc241521bea",
+    "joinedAt": "2025-10-17T13:30:05.835Z",
+    "createdAt": "2025-10-17T13:30:05.835Z",
+    "updatedAt": "2025-10-17T13:30:05.835Z"
+  },
+  {
+    "id": "6fc4842a-5d24-46b2-8a12-dbb649dc6f18",
+    "userId": "490e7e66-3da8-4ff5-bb04-7f90a2746edf",
+    "teamId": "65b2df03-9993-4018-af59-bb019bc907e6",
+    "joinedAt": "2025-10-17T13:32:07.071Z",
+    "createdAt": "2025-10-17T13:32:07.071Z",
+    "updatedAt": "2025-10-17T13:32:07.071Z"
+  },
+  {
+    "id": "d1404a01-c9b3-4407-b950-2a2b1927f4e5",
+    "userId": "490e7e66-3da8-4ff5-bb04-7f90a2746edf",
+    "teamId": "c50d4731-7ff0-4602-9e0f-8bdf7d2f2d80",
+    "joinedAt": "2025-10-17T13:32:07.072Z",
+    "createdAt": "2025-10-17T13:32:07.072Z",
+    "updatedAt": "2025-10-17T13:32:07.072Z"
+  },
+  {
+    "id": "e8456979-b8f4-4b8f-af3b-d29ae4c5f661",
+    "userId": "21a03d36-69a7-4315-baa9-3c19ca012dff",
+    "teamId": "65b2df03-9993-4018-af59-bb019bc907e6",
+    "joinedAt": "2025-10-17T13:32:07.072Z",
+    "createdAt": "2025-10-17T13:32:07.072Z",
+    "updatedAt": "2025-10-17T13:32:07.072Z"
+  },
+  {
+    "id": "55935d26-ef1b-4be6-a441-55a2191d7e86",
+    "userId": "bb36b1ca-50a4-43f8-a463-f979e357e0d5",
+    "teamId": "c50d4731-7ff0-4602-9e0f-8bdf7d2f2d80",
+    "joinedAt": "2025-10-17T13:32:07.073Z",
+    "createdAt": "2025-10-17T13:32:07.073Z",
+    "updatedAt": "2025-10-17T13:32:07.073Z"
+  },
+  {
+    "id": "c726c639-fcfb-43ff-802f-f2fdcf038fba",
+    "userId": "2fb41299-7b88-4eb5-9e9f-282f76587efc",
+    "teamId": "aa390ce7-f35b-4c27-94b7-775688302fae",
+    "joinedAt": "2025-10-17T13:35:20.690Z",
+    "createdAt": "2025-10-17T13:35:20.690Z",
+    "updatedAt": "2025-10-17T13:35:20.690Z"
+  },
+  {
+    "id": "28603e7f-4876-443f-ab3e-822aa87d63a6",
+    "userId": "2fb41299-7b88-4eb5-9e9f-282f76587efc",
+    "teamId": "a4ad01ce-0755-44d9-8808-e6ba8c3b9ddd",
+    "joinedAt": "2025-10-17T13:35:20.691Z",
+    "createdAt": "2025-10-17T13:35:20.691Z",
+    "updatedAt": "2025-10-17T13:35:20.691Z"
+  },
+  {
+    "id": "feeba16a-81f0-450a-96f4-360e52d174e3",
+    "userId": "c1c6edf4-9e87-427c-9783-853d1c8c488e",
+    "teamId": "aa390ce7-f35b-4c27-94b7-775688302fae",
+    "joinedAt": "2025-10-17T13:35:20.691Z",
+    "createdAt": "2025-10-17T13:35:20.691Z",
+    "updatedAt": "2025-10-17T13:35:20.691Z"
+  },
+  {
+    "id": "d984cc0a-8899-41c7-a482-5082b95e7891",
+    "userId": "2cb082ad-6255-4b91-a246-5b28ff15f8af",
+    "teamId": "a4ad01ce-0755-44d9-8808-e6ba8c3b9ddd",
+    "joinedAt": "2025-10-17T13:35:20.692Z",
+    "createdAt": "2025-10-17T13:35:20.692Z",
+    "updatedAt": "2025-10-17T13:35:20.692Z"
+  },
+  {
+    "id": "860476ad-1570-41ca-b9e1-b80f1910f7da",
+    "userId": "e9f10a89-6118-4904-9376-e25f6de105be",
+    "teamId": "05751d08-c063-491d-8462-e95a5fcab13e",
+    "joinedAt": "2025-10-17T13:36:02.622Z",
+    "createdAt": "2025-10-17T13:36:02.622Z",
+    "updatedAt": "2025-10-17T13:36:02.622Z"
+  },
+  {
+    "id": "87eac11d-7440-42da-8073-b84569686bd3",
+    "userId": "e9f10a89-6118-4904-9376-e25f6de105be",
+    "teamId": "a817144f-c085-483f-a443-a5ac13aa9255",
+    "joinedAt": "2025-10-17T13:36:02.622Z",
+    "createdAt": "2025-10-17T13:36:02.622Z",
+    "updatedAt": "2025-10-17T13:36:02.622Z"
+  },
+  {
+    "id": "0e5e2d6e-7f40-4a16-a73e-94bcf5ce834d",
+    "userId": "f5b17ee6-dc6a-4f07-a84f-9e7d2a1ea5c2",
+    "teamId": "05751d08-c063-491d-8462-e95a5fcab13e",
+    "joinedAt": "2025-10-17T13:36:02.623Z",
+    "createdAt": "2025-10-17T13:36:02.623Z",
+    "updatedAt": "2025-10-17T13:36:02.623Z"
+  },
+  {
+    "id": "7bb4a9c1-96cd-47e0-9daf-0c7ba76b9897",
+    "userId": "bf2efaf2-9bd1-470b-ad47-0a86264f791c",
+    "teamId": "a817144f-c085-483f-a443-a5ac13aa9255",
+    "joinedAt": "2025-10-17T13:36:02.623Z",
+    "createdAt": "2025-10-17T13:36:02.623Z",
+    "updatedAt": "2025-10-17T13:36:02.623Z"
+  }
+]
